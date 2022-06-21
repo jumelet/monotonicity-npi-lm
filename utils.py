@@ -56,17 +56,22 @@ MODEL_NAMES = [
 
 
 @suppress_print
-def monotonicity_probe(model: LanguageModel, corpus: Corpus, probe_config):
+def monotonicity_probe(
+    model: LanguageModel, corpus: Corpus, probe_config, activation_names=None
+):
+    if activation_names is None:
+        activation_names = [(1, "hx")]
+
     results = {}
 
-    create_new_activations = not os.path.exists(probe_config["save_dir"])
+    create_new_activations = True  # not os.path.exists(probe_config["save_dir"])
 
     # uniform split
     data_loader = DataLoader(
         corpus,
         model=model,
         activations_dir=probe_config["save_dir"],
-        activation_names=[(1, "hx")],
+        activation_names=activation_names,
         train_test_ratio=0.9,
         train_selection_func=final_sen_token,
         create_new_activations=create_new_activations,
@@ -90,7 +95,7 @@ def monotonicity_probe(model: LanguageModel, corpus: Corpus, probe_config):
             corpus,
             model=model,
             activations_dir=probe_config["save_dir"],
-            activation_names=[(1, "hx")],
+            activation_names=activation_names,
             train_selection_func=intersection((final_sen_token, train_selection_func)),
             test_selection_func=intersection((final_sen_token, test_selection_func)),
         )
@@ -110,7 +115,11 @@ def median_ranks(
     tokenizer: PreTrainedTokenizer,
     envs: List[str],
     probe_config,
+    activation_names=None,
 ):
+    if activation_names is None:
+        activation_names = [(1, "hx")]
+
     results = {}
 
     for env in ["all"] + envs:
@@ -122,7 +131,7 @@ def median_ranks(
             corpus,
             model=model,
             activations_dir=probe_config["save_dir"],
-            activation_names=[(1, "hx")],
+            activation_names=activation_names,
             train_test_ratio=0.9,
             train_selection_func=intersection((final_sen_token, train_selection_func)),
             create_new_activations=(len(envs) == 1),

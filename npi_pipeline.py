@@ -6,7 +6,7 @@ from transformers import PreTrainedTokenizer
 
 from diagnnose.config import create_config_dict
 from diagnnose.corpus import Corpus
-from diagnnose.models import LanguageModel, import_model, set_init_states
+from diagnnose.models import LanguageModel, import_model
 from diagnnose.syntax import SyntacticEvaluator
 from diagnnose.syntax.tasks.warstadt_preproc import ENVS
 from diagnnose.tokenizer import create_tokenizer
@@ -15,7 +15,6 @@ from utils import median_ranks, monotonicity_probe, MODEL_NAMES
 
 
 SUPPRESS_PRINT = False
-
 
 if __name__ == "__main__":
     config_dict = create_config_dict()
@@ -38,7 +37,7 @@ if __name__ == "__main__":
         tokenizer: PreTrainedTokenizer = create_tokenizer(**config_dict["tokenizer"])
         corpus: Corpus = Corpus.create(tokenizer=tokenizer, **config_dict["corpus"])
         model: LanguageModel = import_model(**config_dict["model"])
-        set_init_states(model, tokenizer=tokenizer, **config_dict["init_states"])
+        model.set_init_states(model, tokenizer=tokenizer, **config_dict["init_states"])
 
         if len(envs) == len(ENVS):
             print(f"Probing {mn} on", envs)

@@ -1,0 +1,31 @@
+{
+    "model": {
+        "transformer_type": "fairseq",
+        "checkpoint": "../../andy/checkpoint_best.pt",
+        "vocab_dir": "../../andy"
+    },
+    "tokenizer": {
+        "path": "../../andy/dict_v2.txt",
+        "notify_unk": true
+    },
+    "corpus": {
+        "path": "data/monotonicity_probing_sample.tsv",
+        "sen_column": "sen",
+        "labels_column": "labels",
+        "header_from_first_line": true
+    },
+    "probe": {
+        "save_dir": "../../andy/results",
+        "verbose": 1,
+        "lambda1": 0.005,
+        "max_epochs": 10
+    },
+    "syntax": {
+        "use_full_model_probs": true,
+        "config": {
+            "warstadt": {
+                "path": "data/npi_data_all_environments.tsv"
+            }
+        }
+    }
+}
