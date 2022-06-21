@@ -1,0 +1,1001 @@
+orig_sen_idx	condition	sen	counter_sen	token	full_npi	env	labels
+27785	(0, 1, 1)	Some guest who has exited many restaurants in 	Every guest who has exited many restaurants in 	years	in years	quantifier	upward
+38250	(0, 1, 1)	A customer has really thought that a driver had skated around the grocery store in 	A customer has not thought that a driver had skated around the grocery store in 	years	in years	sentential_negation_biclausal	upward
+3427	(0, 1, 1)	The teenager who often washed in 	The teenager who seldom washed in 	years	in years	adverbs	upward
+10007	(0, 1, 1)	While the actresses observe the teenagers 	If the actresses observe the teenagers 	either	either	conditional	upward
+31099	(1, 1, 1)	The men have wondered whether the customers had passed hospitals 	The men have said that the customers had passed the hospitals 	yet	yet	questions	downward
+51048	(0, 1, 1)	The people who left the happy children in 	The people who left the happiest children in 	years	in years	superlative	upward
+36273	(1, 1, 1)	A customer will not explain that the teenagers can work with a customer 	A customer will really explain that the teenagers can work with a customer 	yet	yet	sentential_negation_biclausal	downward
+28363	(1, 1, 1)	Every boy who is helping the guys 	Some boy who is helping the guys 	either	either	quantifier	downward
+42843	(0, 1, 1)	The guy had discussed 	Had the guy discussed 	any	any	simplequestions	upward
+44937	(1, 1, 1)	Had the ladies described the cashiers in 	The ladies had described the cashiers in 	years	in years	simplequestions	downward
+19749	(1, 1, 1)	Only the people hunted at 	Even the people hunted at 	all	at all	only	downward
+48260	(0, 1, 1)	The books might resemble the new libraries that 	The books might resemble the newest libraries that 	any	any	superlative	upward
+11160	(1, 1, 1)	No woman was 	Some woman was 	ever	ever	determiner_negation_biclausal	downward
+32777	(1, 1, 1)	The pedestrians have wondered whether the students talked to senators at 	The pedestrians have said that the students talked to the senators at 	all	at all	questions	downward
+7969	(1, 1, 1)	If the actresses have the gloves 	While the actresses have the gloves 	yet	yet	conditional	downward
+39922	(1, 1, 1)	A teenager was not thinking that the teenagers are corresponding 	A teenager was really thinking that the teenagers are corresponding 	either	either	sentential_negation_biclausal	downward
+6397	(0, 1, 1)	While the patient investigates 	If the patient investigates 	any	any	conditional	upward
+28233	(1, 1, 1)	Every guest who saw many children 	Some guest who saw many children 	either	either	quantifier	downward
+50087	(1, 1, 1)	The actors who fled from the biggest mall 	The actors who fled from the big mall 	yet	yet	superlative	downward
+34656	(1, 1, 1)	The customers have wondered whether the driver had the glasses 	The customers have said that the driver had the glasses 	either	either	questions	downward
+30396	(0, 1, 1)	The drivers say that the students were arriving at 	The drivers wonder whether the students were arriving at 	any	any	questions	upward
+10095	(1, 1, 1)	If the adults scan the newspaper articles 	While the adults scan the newspaper articles 	either	either	conditional	downward
+14674	(0, 1, 1)	Some ladies have imagined that the stories have won in 	No ladies have imagined that the stories have won in 	years	in years	determiner_negation_biclausal	upward
+47131	(1, 1, 1)	The lady left the biggest public park that the patient had 	The lady left the big public park that the patient had 	ever	ever	superlative	downward
+9817	(0, 1, 1)	While the child has driven to the high schools in 	If the child has driven to the high schools in 	years	in years	conditional	upward
+3816	(0, 1, 1)	The waitresses who have always praised children in 	The waitresses who have barely praised children in 	years	in years	adverbs	upward
+39083	(1, 1, 1)	A man had not explained that the women were going fishing 	A man had really explained that the women were going fishing 	either	either	sentential_negation_biclausal	downward
+6677	(0, 1, 1)	While the children have 	If the children have 	any	any	conditional	upward
+25735	(0, 1, 1)	A customer who has biked to some grocery stores 	Every customer who has biked to some grocery stores 	yet	yet	quantifier	upward
+10075	(1, 1, 1)	If the guy breaks the dishes 	While the guy breaks the dishes 	either	either	conditional	downward
+17084	(0, 1, 1)	Even the patient 	Only the patient 	ever	ever	only	upward
+14736	(0, 1, 1)	Some driver has said that the adults talked about the girls in 	No driver has said that the adults talked about the girls in 	years	in years	determiner_negation_biclausal	upward
+2458	(0, 1, 1)	The teachers who had often changed at 	The teachers who had seldom changed at 	all	at all	adverbs	upward
+29075	(0, 1, 1)	The students say that the drivers 	The students wonder whether the drivers 	ever	ever	questions	upward
+28035	(1, 1, 1)	Every guest who is investigating a lot of boys 	Some guest who is investigating a lot of boys 	either	either	quantifier	downward
+43339	(0, 1, 1)	The pedestrians were cleaning the forks at 	Were the pedestrians cleaning the forks at 	all	at all	simplequestions	upward
+52759	(0, 1, 1)	The waitress who praised the long report 	The waitress who praised the longest report 	either	either	superlative	upward
+7720	(1, 1, 1)	If the adults dislike the girls 	While the adults dislike the girls 	yet	yet	conditional	downward
+30741	(0, 1, 1)	The waiters say that the cashier approaches 	The waiters wonder whether the cashier approaches 	any	any	questions	upward
+40114	(0, 1, 1)	The actors had really imagined that 	The actors had not imagined that 	any	any	sentential_negation_biclausal	upward
+46738	(0, 1, 1)	The boys have explored the schools 	Have the boys explored the schools 	either	either	simplequestions	upward
+1444	(0, 1, 1)	The teenagers who have often referenced 	The teenagers who have hardly referenced 	any	any	adverbs	upward
+51491	(1, 1, 1)	The people who talked about the fastest customers in 	The people who talked about the fast customers in 	years	in years	superlative	downward
+43505	(0, 1, 1)	The senator had visited the cashiers at 	Had the senator visited the cashiers at 	all	at all	simplequestions	upward
+32218	(1, 1, 1)	The pedestrians have wondered whether the doctor talks about ladies at 	The pedestrians have said that the doctor talks about the ladies at 	all	at all	questions	downward
+25674	(0, 1, 1)	More than three students who knew some drivers 	All students who knew some drivers 	yet	yet	quantifier	upward
+19120	(1, 1, 1)	Only the child examines plays at 	Even the child examines plays at 	all	at all	only	downward
+10050	(1, 1, 1)	If the patients dislike the girls 	While the patients dislike the girls 	either	either	conditional	downward
+146	(0, 1, 1)	The doctors sometimes 	The doctors hardly 	ever	ever	adverbs	upward
+8807	(1, 1, 1)	If the doctor flees from the dancers at 	While the doctor flees from the dancers at 	all	at all	conditional	downward
+49728	(1, 1, 1)	The pedestrians who talked about the youngest cashier at 	The pedestrians who talked about the young cashier at 	all	at all	superlative	downward
+6928	(1, 1, 1)	If the man drops by 	While the man drops by 	any	any	conditional	downward
+32325	(0, 1, 1)	The doctors have said that the teacher could skate around the cafes at 	The doctors have wondered whether the teacher could skate around cafes at 	all	at all	questions	upward
+44276	(0, 1, 1)	The waiter had examined the books in 	Had the waiter examined the books in 	years	in years	simplequestions	upward
+13557	(0, 1, 1)	Some waiter was explaining that the senators referenced the commentaries at 	No waiter was explaining that the senators referenced the commentaries at 	all	at all	determiner_negation_biclausal	upward
+39174	(0, 1, 1)	The teenagers can really say that the rugs do resemble a newspaper article 	The teenagers can not say that the rugs do resemble a newspaper article 	either	either	sentential_negation_biclausal	upward
+13920	(1, 1, 1)	No pedestrian did think that the patients forfeit at 	Some pedestrian did think that the patients forfeit at 	all	at all	determiner_negation_biclausal	downward
+29043	(1, 1, 1)	The actors wonder whether the ladies 	The actors say that the ladies 	ever	ever	questions	downward
+47153	(1, 1, 1)	The guest bought the cheapest cups that the actress has 	The guest bought the cheap cups that the actress has 	ever	ever	superlative	downward
+32826	(0, 1, 1)	The people have said that the teacher is criticizing the boys at 	The people have wondered whether the teacher is criticizing boys at 	all	at all	questions	upward
+26948	(0, 1, 1)	Some guests who took more than three reports at 	Any guests who took more than three reports at 	all	at all	quantifier	upward
+50488	(0, 1, 1)	The actors who kissed the fast girls 	The actors who kissed the fastest girls 	yet	yet	superlative	upward
+17133	(1, 1, 1)	Only the adult would 	Even the adult would 	ever	ever	only	downward
+29470	(1, 1, 1)	The guests wonder whether the boys 	The guests say that the boys 	ever	ever	questions	downward
+27533	(0, 1, 1)	Many women who had taken cups in 	All women who had taken cups in 	years	in years	quantifier	upward
+46670	(1, 1, 1)	Could the men scan the commentaries 	The men could scan the commentaries 	either	either	simplequestions	downward
+1816	(1, 1, 1)	The doctors who scarcely talk to 	The doctors who sometimes talk to 	any	any	adverbs	downward
+12671	(0, 1, 1)	Some actors imagine that the guests collaborate 	None of the actors imagine that the guests collaborate 	yet	yet	determiner_negation_biclausal	upward
+46124	(1, 1, 1)	Is the teenager skated around the grocery stores 	The teenager is skated around the grocery stores 	either	either	simplequestions	downward
+37528	(1, 1, 1)	The teenager should not think that the museum does resemble the bank at 	The teenager should really think that the museum does resemble the bank at 	all	at all	sentential_negation_biclausal	downward
+33290	(0, 1, 1)	The dancers have said that the actors arrive at schools in 	The dancers have wondered whether the actors arrive at the schools in 	years	in years	questions	upward
+25764	(1, 1, 1)	Any doctors who have listened to more than three waiters 	A lot of doctors who have listened to more than three waiters 	yet	yet	quantifier	downward
+22584	(0, 1, 1)	Even the ladies collaborate 	Only the ladies collaborate 	either	either	only	upward
+13763	(1, 1, 1)	No actors would say that the senators could reference the documentaries at 	Some actors would say that the senators could reference the documentaries at 	all	at all	determiner_negation_biclausal	downward
+17166	(0, 1, 1)	Even a woman 	Only a woman 	ever	ever	only	upward
+22763	(0, 1, 1)	Even a customer is smiling 	Only a customer is smiling 	either	either	only	upward
+3428	(0, 1, 1)	The person who often left teachers in 	The person who barely left teachers in 	years	in years	adverbs	upward
+52456	(0, 1, 1)	The person who disliked the happy waitresses 	The person who disliked the happiest waitresses 	either	either	superlative	upward
+28276	(0, 1, 1)	Some adult who drops by the hospitals 	Every adult who drops by the hospitals 	either	either	quantifier	upward
+32140	(1, 1, 1)	The teachers have wondered whether the adults boycotted art galleries at 	The teachers have said that the adults boycotted the art galleries at 	all	at all	questions	downward
+26124	(0, 1, 1)	The person who was insulting many documentaries at 	Every person who was insulting many documentaries at 	all	at all	quantifier	upward
+9827	(0, 1, 1)	While the patient has listened to the actors in 	If the patient has listened to the actors in 	years	in years	conditional	upward
+47925	(1, 1, 1)	The waitress criticized the cheapest art galleries that the guest had 	The waitress criticized the cheap art galleries that the guest had 	ever	ever	superlative	downward
+2609	(1, 1, 1)	The cashiers who scarcely disliked movie theaters at 	The cashiers who always disliked movie theaters at 	all	at all	adverbs	downward
+9416	(0, 1, 1)	While the pedestrian had toured the high schools in 	If the pedestrian had toured the high schools in 	years	in years	conditional	upward
+46918	(0, 1, 1)	The customers had bought the gloves 	Had the customers bought the gloves 	either	either	simplequestions	upward
+51132	(0, 1, 1)	The waitress who resembled the cheap banks in 	The waitress who resembled the cheapest banks in 	years	in years	superlative	upward
+9409	(1, 1, 1)	If the dancer had discussed the men in 	While the dancer had discussed the men in 	years	in years	conditional	downward
+14128	(0, 1, 1)	Some actresses had said that the newspaper articles praised the boy in 	None of the actresses had said that the newspaper articles praised the boy in 	years	in years	determiner_negation_biclausal	upward
+1959	(1, 1, 1)	The lady who should barely talk to 	The lady who should sometimes talk to 	any	any	adverbs	downward
+42969	(0, 1, 1)	The cashier is exploring 	Is the cashier exploring 	any	any	simplequestions	upward
+43145	(0, 1, 1)	The doctors can escape from the schools at 	Can the doctors escape from the schools at 	all	at all	simplequestions	upward
+7419	(1, 1, 1)	If the customers go to the banks 	While the customers go to the banks 	yet	yet	conditional	downward
+12318	(1, 1, 1)	No cashier can think that the pants shrank 	Some cashier can think that the pants shrank 	yet	yet	determiner_negation_biclausal	downward
+3174	(0, 1, 1)	The guys who had often responded in 	The guys who had scarcely responded in 	years	in years	adverbs	upward
+1478	(0, 1, 1)	An adult who should sometimes lift 	An adult who should seldom lift 	any	any	adverbs	upward
+32245	(0, 1, 1)	The drivers have said that the boys exit the art galleries at 	The drivers have wondered whether the boys exit art galleries at 	all	at all	questions	upward
+38432	(1, 1, 1)	The cashier has not imagined that the men have cleaned the cars in 	The cashier has really imagined that the men have cleaned the cars in 	years	in years	sentential_negation_biclausal	downward
+3502	(1, 1, 1)	The driver who seldom sighed in 	The driver who always sighed in 	years	in years	adverbs	downward
+6865	(0, 1, 1)	While the boy arrives at 	If the boy arrives at 	any	any	conditional	upward
+39375	(1, 1, 1)	A guy has not imagined that the art galleries can resemble an essay 	A guy has really imagined that the art galleries can resemble an essay 	either	either	sentential_negation_biclausal	downward
+45467	(0, 1, 1)	The women were arriving at the high schools 	Were the women arriving at the high schools 	yet	yet	simplequestions	upward
+27485	(0, 1, 1)	More than three men who had loved some dancers in 	All men who had loved some dancers in 	years	in years	quantifier	upward
+6077	(0, 1, 1)	While the students explore 	If the students explore 	any	any	conditional	upward
+8886	(0, 1, 1)	While the customers buy the newspaper articles at 	If the customers buy the newspaper articles at 	all	at all	conditional	upward
+8809	(1, 1, 1)	If the children visit the customers at 	While the children visit the customers at 	all	at all	conditional	downward
+42073	(1, 1, 1)	Had the pedestrian approached 	The pedestrian had approached 	any	any	simplequestions	downward
+38641	(1, 1, 1)	The cashiers had not explained that a play has won in 	The cashiers had really explained that a play has won in 	years	in years	sentential_negation_biclausal	downward
+14189	(0, 1, 1)	Some child explained that the ladies visited the teachers in 	No child explained that the ladies visited the teachers in 	years	in years	determiner_negation_biclausal	upward
+28580	(1, 1, 1)	All waiters who have taken a lot of books 	More than three waiters who have taken a lot of books 	either	either	quantifier	downward
+21411	(0, 1, 1)	Even the men surrendered in 	Only the men surrendered in 	years	in years	only	upward
+36872	(0, 1, 1)	A teenager had really imagined that the student will wear the shoes 	A teenager had not imagined that the student will wear the shoes 	yet	yet	sentential_negation_biclausal	upward
+43211	(0, 1, 1)	The women had been at the restaurants at 	Had the women been at the restaurants at 	all	at all	simplequestions	upward
+19119	(1, 1, 1)	Only the customer boycotts hospitals at 	Even the customer boycotts hospitals at 	all	at all	only	downward
+10393	(1, 1, 1)	If the men admire the couches 	While the men admire the couches 	either	either	conditional	downward
+31917	(1, 1, 1)	The guys have wondered whether the women break forks 	The guys have said that the women break the forks 	yet	yet	questions	downward
+9196	(1, 1, 1)	If the waitresses had left the cashiers in 	While the waitresses had left the cashiers in 	years	in years	conditional	downward
+25907	(1, 1, 1)	Every girl who was passing many libraries 	The girl who was passing many libraries 	yet	yet	quantifier	downward
+47636	(1, 1, 1)	A man can investigate the fastest person that the doctor has 	A man can investigate the fast person that the doctor has 	ever	ever	superlative	downward
+9679	(1, 1, 1)	If the actress has driven to the malls in 	While the actress has driven to the malls in 	years	in years	conditional	downward
+22919	(1, 1, 1)	Only the pedestrians learn 	Even the pedestrians learn 	either	either	only	downward
+34018	(1, 1, 1)	The girls have wondered whether the dancers see the reports 	The girls have said that the dancers see the reports 	either	either	questions	downward
+12584	(1, 1, 1)	No girl did imagine that the boys might yell 	Some girl did imagine that the boys might yell 	yet	yet	determiner_negation_biclausal	downward
+6813	(1, 1, 1)	If the teacher runs around 	While the teacher runs around 	any	any	conditional	downward
+36539	(1, 1, 1)	The girls should not think that the documentary does disagree 	The girls should really think that the documentary does disagree 	yet	yet	sentential_negation_biclausal	downward
+10969	(1, 1, 1)	If the pedestrians know the dancers 	While the pedestrians know the dancers 	either	either	conditional	downward
+28371	(1, 1, 1)	Every teenager who scans many newspaper articles 	The teenager who scans many newspaper articles 	either	either	quantifier	downward
+27193	(0, 1, 1)	Some person who went to more than three public parks in 	Every person who went to more than three public parks in 	years	in years	quantifier	upward
+38522	(1, 1, 1)	The girl had not imagined that an adult has retaliated in 	The girl had really imagined that an adult has retaliated in 	years	in years	sentential_negation_biclausal	downward
+25186	(0, 1, 1)	A lot of customers who should reference drivers 	Any customers who should reference drivers 	yet	yet	quantifier	upward
+40475	(0, 1, 1)	Those waiters do really say that 	Those waiters do not say that 	any	any	sentential_negation_biclausal	upward
+12513	(1, 1, 1)	No teachers imagined that the malls resemble the chair 	Some teachers imagined that the malls resemble the chair 	yet	yet	determiner_negation_biclausal	downward
+20646	(1, 1, 1)	Only the doctor dislikes guys 	Even the doctor dislikes guys 	yet	yet	only	downward
+39693	(1, 1, 1)	The actors can not explain that the actor had ran around the movie theater 	The actors can really explain that the actor had ran around the movie theater 	either	either	sentential_negation_biclausal	downward
+38027	(1, 1, 1)	The adults not thought that a patient has admired the cashiers in 	The adults really thought that a patient has admired the cashiers in 	years	in years	sentential_negation_biclausal	downward
+13797	(1, 1, 1)	No customers have imagined that the stories have won at 	Some customers have imagined that the stories have won at 	all	at all	determiner_negation_biclausal	downward
+39128	(1, 1, 1)	The waitresses were not thinking that the movie theater should resemble the glasses 	The waitresses were really thinking that the movie theater should resemble the glasses 	either	either	sentential_negation_biclausal	downward
+7090	(1, 1, 1)	If the waiter hugs the drivers 	While the waiter hugs the drivers 	yet	yet	conditional	downward
+51510	(1, 1, 1)	The teacher who left the youngest actors in 	The teacher who left the young actors in 	years	in years	superlative	downward
+48756	(0, 1, 1)	The guests had the important dish that 	The guests had the most important dish that 	any	any	superlative	upward
+12575	(1, 1, 1)	No actors were saying that the public parks resemble the ladies 	Some actors were saying that the public parks resemble the ladies 	yet	yet	determiner_negation_biclausal	downward
+48409	(1, 1, 1)	The essays are insulting the happiest guests that 	The essays are insulting the happy guests that 	any	any	superlative	downward
+26154	(1, 1, 1)	Every dancer who talked about more than three stories at 	A dancer who talked about more than three stories at 	all	at all	quantifier	downward
+44638	(0, 1, 1)	The lady had referenced the adults in 	Had the lady referenced the adults in 	years	in years	simplequestions	upward
+4071	(0, 1, 1)	A man who has sometimes littered 	A man who has barely littered 	either	either	adverbs	upward
+6140	(1, 1, 1)	If the senator cares for 	While the senator cares for 	any	any	conditional	downward
+19250	(0, 1, 1)	Even a doctor scanned documentaries at 	Only a doctor scanned documentaries at 	all	at all	only	upward
+36539	(0, 1, 1)	The girls should really think that the documentary does disagree 	The girls should not think that the documentary does disagree 	yet	yet	sentential_negation_biclausal	upward
+27962	(1, 1, 1)	All dancers who brought the reports in 	Many dancers who brought the reports in 	years	in years	quantifier	downward
+2674	(1, 1, 1)	A guest who seldom hugs customers at 	A guest who sometimes hugs customers at 	all	at all	adverbs	downward
+1741	(1, 1, 1)	The customers who hardly knew 	The customers who often knew 	any	any	adverbs	downward
+15557	(1, 1, 1)	None of the patients are saying that the gals flirted 	Some patients are saying that the gals flirted 	either	either	determiner_negation_biclausal	downward
+22596	(0, 1, 1)	Even the drivers should react 	Only the drivers should react 	either	either	only	upward
+4805	(0, 1, 1)	The cashier who had sometimes benefited 	The cashier who had rarely benefited 	either	either	adverbs	upward
+25293	(1, 1, 1)	All waitresses who skated around many banks 	Some waitresses who skated around many banks 	yet	yet	quantifier	downward
+22290	(1, 1, 1)	Only the customer approves 	Even the customer approves 	either	either	only	downward
+26184	(0, 1, 1)	More than three teenagers who worked with the customers at 	Any teenagers who worked with the customers at 	all	at all	quantifier	upward
+9058	(1, 1, 1)	If the driver has been at the restaurants in 	While the driver has been at the restaurants in 	years	in years	conditional	downward
+9657	(1, 1, 1)	If the waitress has talked about the grocery stores in 	While the waitress has talked about the grocery stores in 	years	in years	conditional	downward
+44945	(1, 1, 1)	Has the guy worked with the pedestrians in 	The guy has worked with the pedestrians in 	years	in years	simplequestions	downward
+34180	(1, 1, 1)	The patients have wondered whether the man investigated the banks 	The patients have said that the man investigated the banks 	either	either	questions	downward
+41636	(1, 1, 1)	Would the patients 	The patients would 	ever	ever	simplequestions	downward
+51921	(1, 1, 1)	The pedestrians who described the nicest doctors in 	The pedestrians who described the nice doctors in 	years	in years	superlative	downward
+16599	(0, 1, 1)	Some people might think that 	None of the people might think that 	any	any	determiner_negation_biclausal	upward
+49210	(1, 1, 1)	The boy who criticized the most popular book at 	The boy who criticized the popular book at 	all	at all	superlative	downward
+15101	(0, 1, 1)	Some student should think that the teachers have explained everything 	No student should think that the teachers have explained everything 	either	either	determiner_negation_biclausal	upward
+35936	(0, 1, 1)	A teenager should really 	A teenager should not 	ever	ever	sentential_negation_biclausal	upward
+44647	(0, 1, 1)	The doctor has hugged the pedestrians in 	Has the doctor hugged the pedestrians in 	years	in years	simplequestions	upward
+22889	(0, 1, 1)	Even a waitress murmured 	Only a waitress murmured 	either	either	only	upward
+33093	(1, 1, 1)	The patients have wondered whether the teacher fled from the actors in 	The patients have said that the teacher fled from actors in 	years	in years	questions	downward
+19031	(0, 1, 1)	Even the driver could smile at 	Only the driver could smile at 	all	at all	only	upward
+26781	(0, 1, 1)	Some man who could care for a lot of guests at 	Every man who could care for a lot of guests at 	all	at all	quantifier	upward
+25137	(1, 1, 1)	Every cashier who passed more than three cafes 	The cashier who passed more than three cafes 	yet	yet	quantifier	downward
+12396	(1, 1, 1)	No waitresses explain that the pedestrians have arrived at the hospital 	Some waitresses explain that the pedestrians have arrived at the hospital 	yet	yet	determiner_negation_biclausal	downward
+4521	(0, 1, 1)	A lady who often shrugged 	A lady who barely shrugged 	either	either	adverbs	upward
+38729	(0, 1, 1)	The ladies have really explained that the guy had praised the children in 	The ladies have not explained that the guy had praised the children in 	years	in years	sentential_negation_biclausal	upward
+8110	(1, 1, 1)	If the actresses remember the men at 	While the actresses remember the men at 	all	at all	conditional	downward
+18343	(1, 1, 1)	Only the guys remember 	Even the guys remember 	any	any	only	downward
+20062	(0, 1, 1)	Even the guests have listened to actors 	Only the guests have listened to actors 	yet	yet	only	upward
+34091	(1, 1, 1)	The adults have wondered whether the teachers have referenced the essays 	The adults have said that the teachers have referenced the essays 	either	either	questions	downward
+3095	(1, 1, 1)	A waitress who has barely cooperated in 	A waitress who has sometimes cooperated in 	years	in years	adverbs	downward
+22420	(0, 1, 1)	Even the teenager has washed 	Only the teenager has washed 	either	either	only	upward
+40243	(0, 1, 1)	Those actresses do really imagine that 	Those actresses do not imagine that 	any	any	sentential_negation_biclausal	upward
+16189	(0, 1, 1)	Some senators thought that 	No senators thought that 	any	any	determiner_negation_biclausal	upward
+47443	(0, 1, 1)	A senator escapes from the popular cafe that the teacher had 	A senator escapes from the most popular cafe that the teacher had 	ever	ever	superlative	upward
+22167	(1, 1, 1)	Only the men shouted 	Even the men shouted 	either	either	only	downward
+14212	(1, 1, 1)	No pedestrian had explained that the reports have discussed a driver in 	Some pedestrian had explained that the reports have discussed a driver in 	years	in years	determiner_negation_biclausal	downward
+45612	(0, 1, 1)	The customer has helped the senators 	Has the customer helped the senators 	yet	yet	simplequestions	upward
+38643	(0, 1, 1)	The people had really imagined that the teenager had donated in 	The people had not imagined that the teenager had donated in 	years	in years	sentential_negation_biclausal	upward
+26020	(0, 1, 1)	A man who has toured some restaurants at 	Every man who has toured some restaurants at 	all	at all	quantifier	upward
+33040	(0, 1, 1)	The students have said that the child has passed hospitals in 	The students have wondered whether the child has passed the hospitals in 	years	in years	questions	upward
+39531	(0, 1, 1)	The lady can really think that the driver had replied 	The lady can not think that the driver had replied 	either	either	sentential_negation_biclausal	upward
+12911	(0, 1, 1)	Some drivers might think that the girls do escape from the waiters 	No drivers might think that the girls do escape from the waiters 	yet	yet	determiner_negation_biclausal	upward
+20879	(0, 1, 1)	Even the guests had flirted 	Only the guests had flirted 	yet	yet	only	upward
+4005	(1, 1, 1)	A man who should seldom win 	A man who should often win 	either	either	adverbs	downward
+46223	(0, 1, 1)	The actor was talking to the actors 	Was the actor talking to the actors 	either	either	simplequestions	upward
+7211	(0, 1, 1)	While the patient hates the people 	If the patient hates the people 	yet	yet	conditional	upward
+27061	(0, 1, 1)	Some patient who investigated teachers in 	Every patient who investigated teachers in 	years	in years	quantifier	upward
+52904	(0, 1, 1)	The teachers who returned to the nice waitresses 	The teachers who returned to the nicest waitresses 	either	either	superlative	upward
+26279	(1, 1, 1)	Every woman who skated around more than three hospitals at 	A woman who skated around more than three hospitals at 	all	at all	quantifier	downward
+6100	(0, 1, 1)	While the pedestrian lifts 	If the pedestrian lifts 	any	any	conditional	upward
+35062	(0, 1, 1)	A customer can really 	A customer can not 	ever	ever	sentential_negation_biclausal	upward
+38650	(0, 1, 1)	An actor really thought that the guys have cooked in 	An actor not thought that the guys have cooked in 	years	in years	sentential_negation_biclausal	upward
+43287	(0, 1, 1)	The pedestrian is visiting the public parks at 	Is the pedestrian visiting the public parks at 	all	at all	simplequestions	upward
+9462	(0, 1, 1)	While the waiter has scanned the essays in 	If the waiter has scanned the essays in 	years	in years	conditional	upward
+10904	(1, 1, 1)	If the patients are at the banks 	While the patients are at the banks 	either	either	conditional	downward
+45881	(1, 1, 1)	Is the pedestrian selling the couches 	The pedestrian is selling the couches 	yet	yet	simplequestions	downward
+15867	(0, 1, 1)	Some guest can think that the gloves resemble the mall 	No guest can think that the gloves resemble the mall 	either	either	determiner_negation_biclausal	upward
+48140	(1, 1, 1)	The adults admire the smallest adult that 	The adults admire the small adult that 	any	any	superlative	downward
+13030	(1, 1, 1)	No customer said that the gloves resemble the car at 	Some customer said that the gloves resemble the car at 	all	at all	determiner_negation_biclausal	downward
+37323	(0, 1, 1)	The boys are really explaining that the actresses are scratching at 	The boys are not explaining that the actresses are scratching at 	all	at all	sentential_negation_biclausal	upward
+20968	(0, 1, 1)	Even a guy listened to teachers 	Only a guy listened to teachers 	yet	yet	only	upward
+25184	(1, 1, 1)	Any girls who walked through the college campuses 	Many girls who walked through the college campuses 	yet	yet	quantifier	downward
+27857	(1, 1, 1)	All guests who have insulted many restaurants in 	A lot of guests who have insulted many restaurants in 	years	in years	quantifier	downward
+23017	(0, 1, 1)	Some teenager who works with 	Every teenager who works with 	any	any	quantifier	upward
+46484	(1, 1, 1)	Did the guys reference the dancers 	The guys did reference the dancers 	either	either	simplequestions	downward
+28224	(0, 1, 1)	The waitresses who were discussing more than three hospitals 	Any waitresses who were discussing more than three hospitals 	either	either	quantifier	upward
+34009	(0, 1, 1)	The girls have said that the girl did talk about the adults 	The girls have wondered whether the girl did talk about the adults 	either	either	questions	upward
+36703	(0, 1, 1)	An actor had really said that the story had criticized a girl 	An actor had not said that the story had criticized a girl 	yet	yet	sentential_negation_biclausal	upward
+31426	(1, 1, 1)	The dancers have wondered whether the children were skated around cafes 	The dancers have said that the children were skated around the cafes 	yet	yet	questions	downward
+24832	(0, 1, 1)	Many girls who might 	All girls who might 	ever	ever	quantifier	upward
+37870	(1, 1, 1)	The actress did not say that an adult does telephone at 	The actress did really say that an adult does telephone at 	all	at all	sentential_negation_biclausal	downward
+44006	(0, 1, 1)	The customers had talked to the ladies in 	Had the customers talked to the ladies in 	years	in years	simplequestions	upward
+39306	(0, 1, 1)	The gals have really said that the libraries will resemble the cars 	The gals have not said that the libraries will resemble the cars 	either	either	sentential_negation_biclausal	upward
+14595	(0, 1, 1)	Some adults have explained that the waitresses have visited the cashier in 	No adults have explained that the waitresses have visited the cashier in 	years	in years	determiner_negation_biclausal	upward
+45581	(1, 1, 1)	Has the waitress boycotted the schools 	The waitress has boycotted the schools 	yet	yet	simplequestions	downward
+30921	(1, 1, 1)	The actors wonder whether the boy has hated 	The actors say that the boy has hated 	any	any	questions	downward
+30562	(0, 1, 1)	The women say that the actresses should visit 	The women wonder whether the actresses should visit 	any	any	questions	upward
+51409	(0, 1, 1)	The ladies who admired the bad woman in 	The ladies who admired the worst woman in 	years	in years	superlative	upward
+31761	(1, 1, 1)	The drivers have wondered whether the child has observed guests 	The drivers have said that the child has observed the guests 	yet	yet	questions	downward
+23818	(0, 1, 1)	The adult who has seen 	Every adult who has seen 	any	any	quantifier	upward
+13261	(0, 1, 1)	Some guy was explaining that the men were running around the malls at 	No guy was explaining that the men were running around the malls at 	all	at all	determiner_negation_biclausal	upward
+22499	(0, 1, 1)	Even the teenager has boasted 	Only the teenager has boasted 	either	either	only	upward
+10831	(0, 1, 1)	While the teachers go to the malls 	If the teachers go to the malls 	either	either	conditional	upward
+32971	(1, 1, 1)	The customers have wondered whether the waiters have newspaper articles at 	The customers have said that the waiters have the newspaper articles at 	all	at all	questions	downward
+20708	(1, 1, 1)	Only a guest succeeds 	Even a guest succeeds 	yet	yet	only	downward
+32659	(1, 1, 1)	The guys have wondered whether the waiters passed banks at 	The guys have said that the waiters passed the banks at 	all	at all	questions	downward
+31949	(0, 1, 1)	The guests have said that the adults should bring the books 	The guests have wondered whether the adults should bring books 	yet	yet	questions	upward
+48978	(0, 1, 1)	The men skated around the big high school that 	The men skated around the biggest high school that 	any	any	superlative	upward
+8035	(0, 1, 1)	While the dancers skate around the restaurants at 	If the dancers skate around the restaurants at 	all	at all	conditional	upward
+39901	(0, 1, 1)	The adult has really imagined that the senators are returning to the mall 	The adult has not imagined that the senators are returning to the mall 	either	either	sentential_negation_biclausal	upward
+13186	(1, 1, 1)	No patient was imagining that the teachers care for the driver at 	Some patient was imagining that the teachers care for the driver at 	all	at all	determiner_negation_biclausal	downward
+28614	(1, 1, 1)	All cashiers who have examined stories 	Some cashiers who have examined stories 	either	either	quantifier	downward
+3930	(0, 1, 1)	The people who had sometimes donated in 	The people who had hardly donated in 	years	in years	adverbs	upward
+50302	(1, 1, 1)	A person who cleaned the newest cup 	A person who cleaned the new cup 	yet	yet	superlative	downward
+45476	(0, 1, 1)	The teenagers are being at the art galleries 	Are the teenagers being at the art galleries 	yet	yet	simplequestions	upward
+26072	(1, 1, 1)	All actresses who do escape from some adults at 	More than three actresses who do escape from some adults at 	all	at all	quantifier	downward
+13880	(0, 1, 1)	Some women had imagined that the movie theaters resemble a dish at 	None of the women had imagined that the movie theaters resemble a dish at 	all	at all	determiner_negation_biclausal	upward
+16054	(0, 1, 1)	Some girls thought that 	None of the girls thought that 	any	any	determiner_negation_biclausal	upward
+7703	(1, 1, 1)	If the adults love the documentaries 	While the adults love the documentaries 	yet	yet	conditional	downward
+46772	(1, 1, 1)	Will the student scan the reports 	The student will scan the reports 	either	either	simplequestions	downward
+51445	(0, 1, 1)	The patients who arrived at the small college campus in 	The patients who arrived at the smallest college campus in 	years	in years	superlative	upward
+47241	(0, 1, 1)	The driver talked about the cheap hospitals that the children had 	The driver talked about the cheapest hospitals that the children had 	ever	ever	superlative	upward
+48234	(1, 1, 1)	The schools could resemble the smallest car that 	The schools could resemble the small car that 	any	any	superlative	downward
+43985	(1, 1, 1)	Is the pedestrian wearing the gloves at 	The pedestrian is wearing the gloves at 	all	at all	simplequestions	downward
+45218	(0, 1, 1)	The person has known the people 	Has the person known the people 	yet	yet	simplequestions	upward
+40789	(1, 1, 1)	These students are not imagining that 	These students are really imagining that 	any	any	sentential_negation_biclausal	downward
+21144	(0, 1, 1)	Even the teacher had saluted in 	Only the teacher had saluted in 	years	in years	only	upward
+42810	(1, 1, 1)	Has the child escaped from 	The child has escaped from 	any	any	simplequestions	downward
+14266	(0, 1, 1)	Some cashier has thought that the men have baked in 	No cashier has thought that the men have baked in 	years	in years	determiner_negation_biclausal	upward
+15868	(0, 1, 1)	Some person explains that the students do learn 	No person explains that the students do learn 	either	either	determiner_negation_biclausal	upward
+46119	(1, 1, 1)	Has the teenager gone to the college campuses 	The teenager has gone to the college campuses 	either	either	simplequestions	downward
+32214	(1, 1, 1)	The guests have wondered whether the men have exited high schools at 	The guests have said that the men have exited the high schools at 	all	at all	questions	downward
+36122	(1, 1, 1)	A teenager did not say that the guy had chuckled 	A teenager did really say that the guy had chuckled 	yet	yet	sentential_negation_biclausal	downward
+9346	(1, 1, 1)	If the boys have gone to the malls in 	While the boys have gone to the malls in 	years	in years	conditional	downward
+2729	(0, 1, 1)	The women who sometimes observe fish at 	The women who hardly observe fish at 	all	at all	adverbs	upward
+15349	(1, 1, 1)	No waitresses do imagine that the glasses are shrinking 	Some waitresses do imagine that the glasses are shrinking 	either	either	determiner_negation_biclausal	downward
+51663	(0, 1, 1)	The senator who disliked the popular plays in 	The senator who disliked the most popular plays in 	years	in years	superlative	upward
+8940	(1, 1, 1)	If the child drives to the movie theaters at 	While the child drives to the movie theaters at 	all	at all	conditional	downward
+49514	(1, 1, 1)	A doctor who hugged the fastest boy at 	A doctor who hugged the fast boy at 	all	at all	superlative	downward
+52443	(0, 1, 1)	The people who hugged the young guys 	The people who hugged the youngest guys 	either	either	superlative	upward
+20705	(1, 1, 1)	Only the woman was worrying 	Even the woman was worrying 	yet	yet	only	downward
+15184	(0, 1, 1)	Some doctor imagines that the patients described a driver 	No doctor imagines that the patients described a driver 	either	either	determiner_negation_biclausal	upward
+4645	(1, 1, 1)	The pedestrian who rarely sang 	The pedestrian who often sang 	either	either	adverbs	downward
+27058	(0, 1, 1)	A lot of boys who passed more than three hospitals in 	All boys who passed more than three hospitals in 	years	in years	quantifier	upward
+37754	(1, 1, 1)	The boys have not thought that a guest has waved at 	The boys have really thought that a guest has waved at 	all	at all	sentential_negation_biclausal	downward
+36688	(0, 1, 1)	The teenagers are really explaining that the books did resemble the rugs 	The teenagers are not explaining that the books did resemble the rugs 	yet	yet	sentential_negation_biclausal	upward
+12562	(1, 1, 1)	No ladies were thinking that the essays have disagreed 	Some ladies were thinking that the essays have disagreed 	yet	yet	determiner_negation_biclausal	downward
+14406	(0, 1, 1)	Some children had said that the movies criticized a lady in 	No children had said that the movies criticized a lady in 	years	in years	determiner_negation_biclausal	upward
+34031	(1, 1, 1)	The adults have wondered whether the people bike to the art galleries 	The adults have said that the people bike to the art galleries 	either	either	questions	downward
+30850	(0, 1, 1)	The dancers say that the person will listen to 	The dancers wonder whether the person will listen to 	any	any	questions	upward
+20189	(0, 1, 1)	Even the guests were arriving at grocery stores 	Only the guests were arriving at grocery stores 	yet	yet	only	upward
+27849	(0, 1, 1)	Men who have referenced some adults in 	Any men who have referenced some adults in 	years	in years	quantifier	upward
+28914	(1, 1, 1)	Any doctors who would be at the high schools 	More than three doctors who would be at the high schools 	either	either	quantifier	downward
+49577	(0, 1, 1)	The men who liked the new couch at 	The men who liked the newest couch at 	all	at all	superlative	upward
+38836	(1, 1, 1)	The teenagers not imagined that the patients have testified in 	The teenagers really imagined that the patients have testified in 	years	in years	sentential_negation_biclausal	downward
+1108	(0, 1, 1)	The adults who had always cleaned 	The adults who had barely cleaned 	any	any	adverbs	upward
+36482	(1, 1, 1)	The teacher should not imagine that a teacher is protesting 	The teacher should really imagine that a teacher is protesting 	yet	yet	sentential_negation_biclausal	downward
+8462	(1, 1, 1)	If the actors respect the people at 	While the actors respect the people at 	all	at all	conditional	downward
+8224	(0, 1, 1)	While the children walk through the schools at 	If the children walk through the schools at 	all	at all	conditional	upward
+7606	(0, 1, 1)	While the patient knows the waiters 	If the patient knows the waiters 	yet	yet	conditional	upward
+7530	(1, 1, 1)	If the dancers know the students 	While the dancers know the students 	yet	yet	conditional	downward
+12706	(0, 1, 1)	Some actress had explained that the customers have explained everything 	No actress had explained that the customers have explained everything 	yet	yet	determiner_negation_biclausal	upward
+32430	(1, 1, 1)	The men have wondered whether the boys are escaping from doctors at 	The men have said that the boys are escaping from the doctors at 	all	at all	questions	downward
+38504	(1, 1, 1)	The patient had not explained that the documentary has disagreed in 	The patient had really explained that the documentary has disagreed in 	years	in years	sentential_negation_biclausal	downward
+33352	(0, 1, 1)	The guests have said that the children were buying chairs in 	The guests have wondered whether the children were buying the chairs in 	years	in years	questions	upward
+40262	(0, 1, 1)	The men had really thought that 	The men had not thought that 	any	any	sentential_negation_biclausal	upward
+8175	(1, 1, 1)	If the cashier sees the guys at 	While the cashier sees the guys at 	all	at all	conditional	downward
+9362	(0, 1, 1)	While the waiter has worn the pants in 	If the waiter has worn the pants in 	years	in years	conditional	upward
+42170	(1, 1, 1)	Were the men running around 	The men were running around 	any	any	simplequestions	downward
+19413	(1, 1, 1)	Only the patients boycotted public parks at 	Even the patients boycotted public parks at 	all	at all	only	downward
+27330	(0, 1, 1)	More than three cashiers who ran around cafes in 	All cashiers who ran around cafes in 	years	in years	quantifier	upward
+48295	(1, 1, 1)	The grocery stores did resemble the most popular pedestrians that 	The grocery stores did resemble the popular pedestrians that 	any	any	superlative	downward
+18416	(1, 1, 1)	Only the pedestrians were boycotting 	Even the pedestrians were boycotting 	any	any	only	downward
+9326	(1, 1, 1)	If the actors had kissed the waiters in 	While the actors had kissed the waiters in 	years	in years	conditional	downward
+52035	(1, 1, 1)	The driver who referenced the worst essay 	The driver who referenced the bad essay 	either	either	superlative	downward
+14436	(0, 1, 1)	Some pedestrians explained that the newspaper articles won in 	No pedestrians explained that the newspaper articles won in 	years	in years	determiner_negation_biclausal	upward
+27056	(0, 1, 1)	More than three actresses who had lifted the books in 	All actresses who had lifted the books in 	years	in years	quantifier	upward
+36957	(1, 1, 1)	The lady would not say that the girl would drive to the school 	The lady would really say that the girl would drive to the school 	yet	yet	sentential_negation_biclausal	downward
+19064	(0, 1, 1)	Even a guest talks about hospitals at 	Only a guest talks about hospitals at 	all	at all	only	upward
+48710	(1, 1, 1)	The eyes would resemble the smallest reports that 	The eyes would resemble the small reports that 	any	any	superlative	downward
+15006	(1, 1, 1)	No girl has said that the children would wear the gloves 	Some girl has said that the children would wear the gloves 	either	either	determiner_negation_biclausal	downward
+33150	(0, 1, 1)	The students have said that the dancers buy chairs in 	The students have wondered whether the dancers buy the chairs in 	years	in years	questions	upward
+9904	(1, 1, 1)	If the guy had respected the museums in 	While the guy had respected the museums in 	years	in years	conditional	downward
+12408	(0, 1, 1)	Some guy is imagining that the teenagers had helped the waitresses 	No guy is imagining that the teenagers had helped the waitresses 	yet	yet	determiner_negation_biclausal	upward
+40023	(1, 1, 1)	Those men had not imagined that 	Those men had really imagined that 	any	any	sentential_negation_biclausal	downward
+28627	(0, 1, 1)	More than three people who talk to guys 	Any people who talk to guys 	either	either	quantifier	upward
+47122	(0, 1, 1)	The customers do know the serious lady that the teachers had 	The customers do know the most serious lady that the teachers had 	ever	ever	superlative	upward
+25514	(0, 1, 1)	The actor who examined more than three stories 	Every actor who examined more than three stories 	yet	yet	quantifier	upward
+4916	(1, 1, 1)	A waitress who seldom hates stories 	A waitress who sometimes hates stories 	either	either	adverbs	downward
+18146	(1, 1, 1)	Only the ladies should be at 	Even the ladies should be at 	any	any	only	downward
+44414	(0, 1, 1)	The dancer had returned to the waiters in 	Had the dancer returned to the waiters in 	years	in years	simplequestions	upward
+43794	(0, 1, 1)	The pedestrian was scanning the plays at 	Was the pedestrian scanning the plays at 	all	at all	simplequestions	upward
+26777	(0, 1, 1)	Some drivers who would insult waitresses at 	All drivers who would insult waitresses at 	all	at all	quantifier	upward
+27893	(0, 1, 1)	Some boy who talked to many dancers in 	Every boy who talked to many dancers in 	years	in years	quantifier	upward
+15609	(0, 1, 1)	Some students are thinking that the men joked around 	No students are thinking that the men joked around 	either	either	determiner_negation_biclausal	upward
+34865	(1, 1, 1)	The guests have wondered whether the cashiers were hugging the people 	The guests have said that the cashiers were hugging the people 	either	either	questions	downward
+36522	(1, 1, 1)	A cashier is not thinking that the guys do negotiate 	A cashier is really thinking that the guys do negotiate 	yet	yet	sentential_negation_biclausal	downward
+38936	(0, 1, 1)	A teenager has really explained that the lady had chuckled in 	A teenager has not explained that the lady had chuckled in 	years	in years	sentential_negation_biclausal	upward
+22600	(0, 1, 1)	Even the cashiers stretch 	Only the cashiers stretch 	either	either	only	upward
+1110	(1, 1, 1)	The women who have rarely ran around 	The women who have always ran around 	any	any	adverbs	downward
+712	(1, 1, 1)	The waiter barely 	The waiter always 	ever	ever	adverbs	downward
+37923	(1, 1, 1)	The guest has not thought that the patient could attack the woman at 	The guest has really thought that the patient could attack the woman at 	all	at all	sentential_negation_biclausal	downward
+23288	(1, 1, 1)	Every pedestrian who is walking through 	Some pedestrian who is walking through 	any	any	quantifier	downward
+27694	(0, 1, 1)	Some men who had hated patients in 	All men who had hated patients in 	years	in years	quantifier	upward
+26680	(0, 1, 1)	Some student who was admiring the rugs at 	Every student who was admiring the rugs at 	all	at all	quantifier	upward
+39266	(1, 1, 1)	The cashiers had not thought that the guy is boycotting the restaurant 	The cashiers had really thought that the guy is boycotting the restaurant 	either	either	sentential_negation_biclausal	downward
+33546	(0, 1, 1)	The men have said that the customer could hug senators in 	The men have wondered whether the customer could hug the senators in 	years	in years	questions	upward
+49780	(0, 1, 1)	The adults who bought the old cups at 	The adults who bought the oldest cups at 	all	at all	superlative	upward
+8634	(1, 1, 1)	If the driver returns to the banks at 	While the driver returns to the banks at 	all	at all	conditional	downward
+21240	(1, 1, 1)	Only the customer whispered in 	Even the customer whispered in 	years	in years	only	downward
+1971	(0, 1, 1)	A guy who has always discussed 	A guy who has barely discussed 	any	any	adverbs	upward
+33483	(0, 1, 1)	The girls have said that the customers were buying cars in 	The girls have wondered whether the customers were buying the cars in 	years	in years	questions	upward
+38311	(1, 1, 1)	The guy not said that the newspaper articles had talked about the college campuses in 	The guy really said that the newspaper articles had talked about the college campuses in 	years	in years	sentential_negation_biclausal	downward
+8967	(1, 1, 1)	If the driver criticizes the commentaries at 	While the driver criticizes the commentaries at 	all	at all	conditional	downward
+44107	(0, 1, 1)	The patient had forgotten the ladies in 	Had the patient forgotten the ladies in 	years	in years	simplequestions	upward
+49284	(0, 1, 1)	The children who remembered the young actors at 	The children who remembered the youngest actors at 	all	at all	superlative	upward
+50634	(1, 1, 1)	A waitress who forgot the happiest waiter 	A waitress who forgot the happy waiter 	yet	yet	superlative	downward
+22577	(1, 1, 1)	Only the women shrugged 	Even the women shrugged 	either	either	only	downward
+12911	(1, 1, 1)	No drivers might think that the girls do escape from the waiters 	Some drivers might think that the girls do escape from the waiters 	yet	yet	determiner_negation_biclausal	downward
+42965	(1, 1, 1)	Should the children admire 	The children should admire 	any	any	simplequestions	downward
+22276	(0, 1, 1)	Even the guys whisper 	Only the guys whisper 	either	either	only	upward
+12893	(1, 1, 1)	No people are imagining that the glasses had shrunk 	Some people are imagining that the glasses had shrunk 	yet	yet	determiner_negation_biclausal	downward
+12568	(0, 1, 1)	Some doctors are saying that the hospitals resemble a woman 	None of the doctors are saying that the hospitals resemble a woman 	yet	yet	determiner_negation_biclausal	upward
+4664	(1, 1, 1)	The boy who had seldom loved patients 	The boy who had sometimes loved patients 	either	either	adverbs	downward
+26276	(1, 1, 1)	Every teenager who buys more than three reports at 	Some teenager who buys more than three reports at 	all	at all	quantifier	downward
+48839	(0, 1, 1)	The glasses might resemble the popular newspaper articles that 	The glasses might resemble the most popular newspaper articles that 	any	any	superlative	upward
+28218	(0, 1, 1)	The waitresses who might criticize a lot of reports 	All waitresses who might criticize a lot of reports 	either	either	quantifier	upward
+22935	(0, 1, 1)	Even the customer did yell 	Only the customer did yell 	either	either	only	upward
+9222	(1, 1, 1)	If the children had driven to the college campuses in 	While the children had driven to the college campuses in 	years	in years	conditional	downward
+43661	(0, 1, 1)	The lady had escaped from the libraries at 	Had the lady escaped from the libraries at 	all	at all	simplequestions	upward
+37230	(1, 1, 1)	The waiter has not thought that the library might resemble the cashier at 	The waiter has really thought that the library might resemble the cashier at 	all	at all	sentential_negation_biclausal	downward
+24579	(1, 1, 1)	Every pedestrian who will 	Some pedestrian who will 	ever	ever	quantifier	downward
+50323	(0, 1, 1)	The doctors who referenced the bad reports 	The doctors who referenced the worst reports 	yet	yet	superlative	upward
+35363	(1, 1, 1)	The actor had not 	The actor had really 	ever	ever	sentential_negation_biclausal	downward
+17027	(1, 1, 1)	Only the gals do 	Even the gals do 	ever	ever	only	downward
+34151	(1, 1, 1)	The patients have wondered whether the teacher was discussing the students 	The patients have said that the teacher was discussing the students 	either	either	questions	downward
+29531	(1, 1, 1)	The actors wonder whether the students 	The actors say that the students 	ever	ever	questions	downward
+34566	(1, 1, 1)	The children have wondered whether the women kiss the men 	The children have said that the women kiss the men 	either	either	questions	downward
+49178	(0, 1, 1)	The customers who described the big actors at 	The customers who described the biggest actors at 	all	at all	superlative	upward
+39042	(0, 1, 1)	The boys are really thinking that a book has won 	The boys are not thinking that a book has won 	either	either	sentential_negation_biclausal	upward
+39312	(0, 1, 1)	The students are really saying that the teenagers have exited the college campus 	The students are not saying that the teenagers have exited the college campus 	either	either	sentential_negation_biclausal	upward
+33788	(0, 1, 1)	The dancers have said that the student explores art galleries in 	The dancers have wondered whether the student explores the art galleries in 	years	in years	questions	upward
+37560	(1, 1, 1)	The patient is not explaining that a boy will take a book at 	The patient is really explaining that a boy will take a book at 	all	at all	sentential_negation_biclausal	downward
+9266	(1, 1, 1)	If the guests had exited the grocery stores in 	While the guests had exited the grocery stores in 	years	in years	conditional	downward
+31870	(0, 1, 1)	The girls have said that the senators forgot the actors 	The girls have wondered whether the senators forgot actors 	yet	yet	questions	upward
+37036	(0, 1, 1)	The teachers have really imagined that the doctors would sell the hat at 	The teachers have not imagined that the doctors would sell the hat at 	all	at all	sentential_negation_biclausal	upward
+13176	(1, 1, 1)	No man was thinking that the museums would resemble the documentaries at 	Some man was thinking that the museums would resemble the documentaries at 	all	at all	determiner_negation_biclausal	downward
+21491	(1, 1, 1)	Only a dancer has answered in 	Even a dancer has answered in 	years	in years	only	downward
+38057	(0, 1, 1)	The guys really imagined that the book had discussed the public park in 	The guys not imagined that the book had discussed the public park in 	years	in years	sentential_negation_biclausal	upward
+46222	(0, 1, 1)	The girl had left the cashiers 	Had the girl left the cashiers 	either	either	simplequestions	upward
+10713	(1, 1, 1)	If the customer exits the cafes 	While the customer exits the cafes 	either	either	conditional	downward
+32142	(0, 1, 1)	The guests have said that the cashiers had kissed the men at 	The guests have wondered whether the cashiers had kissed men at 	all	at all	questions	upward
+47761	(1, 1, 1)	The customer had ran around the oldest malls that the children had 	The customer had ran around the old malls that the children had 	ever	ever	superlative	downward
+36528	(0, 1, 1)	The patients were really explaining that a book is referencing the actress 	The patients were not explaining that a book is referencing the actress 	yet	yet	sentential_negation_biclausal	upward
+38872	(0, 1, 1)	The people really said that the men had studied in 	The people not said that the men had studied in 	years	in years	sentential_negation_biclausal	upward
+20134	(1, 1, 1)	Only the doctor would leave girls 	Even the doctor would leave girls 	yet	yet	only	downward
+31086	(0, 1, 1)	The waiters have said that the drivers hate the teenagers 	The waiters have wondered whether the drivers hate teenagers 	yet	yet	questions	upward
+46121	(1, 1, 1)	Had the senator walked through the restaurants 	The senator had walked through the restaurants 	either	either	simplequestions	downward
+9698	(0, 1, 1)	While the pedestrians have criticized the ladies in 	If the pedestrians have criticized the ladies in 	years	in years	conditional	upward
+6514	(1, 1, 1)	If the person likes 	While the person likes 	any	any	conditional	downward
+33838	(1, 1, 1)	The people have wondered whether the teenager is biking to the cafes in 	The people have said that the teenager is biking to cafes in 	years	in years	questions	downward
+7180	(1, 1, 1)	If the waitresses hate the guys 	While the waitresses hate the guys 	yet	yet	conditional	downward
+4214	(0, 1, 1)	The guys who had often sold dishes 	The guys who had seldom sold dishes 	either	either	adverbs	upward
+20634	(1, 1, 1)	Only the lady should love humans 	Even the lady should love humans 	yet	yet	only	downward
+1114	(1, 1, 1)	The cashiers who have hardly toured 	The cashiers who have sometimes toured 	any	any	adverbs	downward
+18546	(1, 1, 1)	Only the drivers brought 	Even the drivers brought 	any	any	only	downward
+29977	(1, 1, 1)	The teachers wonder whether the children 	The teachers say that the children 	ever	ever	questions	downward
+37008	(1, 1, 1)	The customers were not thinking that the patient should swallow at 	The customers were really thinking that the patient should swallow at 	all	at all	sentential_negation_biclausal	downward
+30959	(0, 1, 1)	The students say that the teenagers described 	The students wonder whether the teenagers described 	any	any	questions	upward
+35870	(0, 1, 1)	The boys will really 	The boys will not 	ever	ever	sentential_negation_biclausal	upward
+25737	(0, 1, 1)	The senator who ran around some movie theaters 	Every senator who ran around some movie theaters 	yet	yet	quantifier	upward
+32859	(1, 1, 1)	The doctors have wondered whether the cashier was exiting museums at 	The doctors have said that the cashier was exiting the museums at 	all	at all	questions	downward
+19460	(1, 1, 1)	Only the doctors did hug guys at 	Even the doctors did hug guys at 	all	at all	only	downward
+26562	(1, 1, 1)	Any doctors who had worked with a lot of waitresses at 	Some doctors who had worked with a lot of waitresses at 	all	at all	quantifier	downward
+30467	(1, 1, 1)	The women wonder whether the waiter returns to 	The women say that the waiter returns to 	any	any	questions	downward
+51589	(0, 1, 1)	The ladies who broke the big cup in 	The ladies who broke the biggest cup in 	years	in years	superlative	upward
+32218	(0, 1, 1)	The pedestrians have said that the doctor talks about the ladies at 	The pedestrians have wondered whether the doctor talks about ladies at 	all	at all	questions	upward
+13159	(0, 1, 1)	Some teenager has explained that the waiters have scratched at 	No teenager has explained that the waiters have scratched at 	all	at all	determiner_negation_biclausal	upward
+4173	(0, 1, 1)	The teachers who have often investigated doctors 	The teachers who have rarely investigated doctors 	either	either	adverbs	upward
+14236	(0, 1, 1)	Some children explained that the boys boasted in 	None of the children explained that the boys boasted in 	years	in years	determiner_negation_biclausal	upward
+6887	(1, 1, 1)	If the drivers tour 	While the drivers tour 	any	any	conditional	downward
+4108	(0, 1, 1)	The guest who had always joked around 	The guest who had seldom joked around 	either	either	adverbs	upward
+23818	(1, 1, 1)	Every adult who has seen 	The adult who has seen 	any	any	quantifier	downward
+19857	(1, 1, 1)	Only the waitresses have forgotten books at 	Even the waitresses have forgotten books at 	all	at all	only	downward
+16834	(1, 1, 1)	None of the pedestrians say that 	Some pedestrians say that 	any	any	determiner_negation_biclausal	downward
+33419	(1, 1, 1)	The guests have wondered whether the doctor has seen the pants in 	The guests have said that the doctor has seen pants in 	years	in years	questions	downward
+28163	(1, 1, 1)	All people who skate around many public parks 	Some people who skate around many public parks 	either	either	quantifier	downward
+47220	(0, 1, 1)	The pedestrians had kissed the happy doctor that the movie had 	The pedestrians had kissed the happiest doctor that the movie had 	ever	ever	superlative	upward
+6732	(0, 1, 1)	While the actor flees from 	If the actor flees from 	any	any	conditional	upward
+36367	(1, 1, 1)	The patients have not imagined that the commentaries had described the high school 	The patients have really imagined that the commentaries had described the high school 	yet	yet	sentential_negation_biclausal	downward
+25986	(1, 1, 1)	Every actor who drives to more than three public parks 	The actor who drives to more than three public parks 	yet	yet	quantifier	downward
+8783	(1, 1, 1)	If the customer loves the patients at 	While the customer loves the patients at 	all	at all	conditional	downward
+35367	(1, 1, 1)	The senator might not 	The senator might really 	ever	ever	sentential_negation_biclausal	downward
+15394	(1, 1, 1)	None of the girls imagined that the movies won 	Some girls imagined that the movies won 	either	either	determiner_negation_biclausal	downward
+40740	(1, 1, 1)	These drivers would not imagine that 	These drivers would really imagine that 	any	any	sentential_negation_biclausal	downward
+6819	(0, 1, 1)	While the lady watches 	If the lady watches 	any	any	conditional	upward
+12403	(0, 1, 1)	Some customers were explaining that the shoes shrank 	No customers were explaining that the shoes shrank 	yet	yet	determiner_negation_biclausal	upward
+14405	(1, 1, 1)	No cashier imagined that the adults washed in 	Some cashier imagined that the adults washed in 	years	in years	determiner_negation_biclausal	downward
+20567	(0, 1, 1)	Even an adult whispered 	Only an adult whispered 	yet	yet	only	upward
+2339	(1, 1, 1)	The lady who has barely baked at 	The lady who has sometimes baked at 	all	at all	adverbs	downward
+52064	(0, 1, 1)	The people who cared for the young actors 	The people who cared for the youngest actors 	either	either	superlative	upward
+25892	(0, 1, 1)	More than three boys who bike to many libraries 	Any boys who bike to many libraries 	yet	yet	quantifier	upward
+15728	(0, 1, 1)	Some students should imagine that the shoes would resemble the ladies 	No students should imagine that the shoes would resemble the ladies 	either	either	determiner_negation_biclausal	upward
+26026	(0, 1, 1)	The student who does drive to more than three public parks at 	Every student who does drive to more than three public parks at 	all	at all	quantifier	upward
+19751	(1, 1, 1)	Only the patients debate at 	Even the patients debate at 	all	at all	only	downward
+50198	(0, 1, 1)	The actresses who praised the long books 	The actresses who praised the longest books 	yet	yet	superlative	upward
+42855	(1, 1, 1)	Should the teacher discuss 	The teacher should discuss 	any	any	simplequestions	downward
+35032	(1, 1, 1)	The patient might not 	The patient might really 	ever	ever	sentential_negation_biclausal	downward
+43324	(0, 1, 1)	The actresses did know the children at 	Did the actresses know the children at 	all	at all	simplequestions	upward
+30056	(1, 1, 1)	The doctors wonder whether the guys should clean 	The doctors say that the guys should clean 	any	any	questions	downward
+29850	(1, 1, 1)	The patients wonder whether the waitresses 	The patients say that the waitresses 	ever	ever	questions	downward
+36018	(0, 1, 1)	The cashiers were really saying that the doctors are bringing the books 	The cashiers were not saying that the doctors are bringing the books 	yet	yet	sentential_negation_biclausal	upward
+20660	(1, 1, 1)	Only a pedestrian does cry 	Even a pedestrian does cry 	yet	yet	only	downward
+52036	(1, 1, 1)	The cashier who went to the oldest cafes 	The cashier who went to the old cafes 	either	either	superlative	downward
+2337	(0, 1, 1)	A man who often protests at 	A man who seldom protests at 	all	at all	adverbs	upward
+23316	(1, 1, 1)	Any pedestrians who explored 	Many pedestrians who explored 	any	any	quantifier	downward
+13125	(0, 1, 1)	Some teacher has explained that the shoes will resemble the person at 	No teacher has explained that the shoes will resemble the person at 	all	at all	determiner_negation_biclausal	upward
+7387	(0, 1, 1)	While the students attack the women 	If the students attack the women 	yet	yet	conditional	upward
+49057	(0, 1, 1)	A student who praised the good customer at 	A student who praised the best customer at 	all	at all	superlative	upward
+38239	(0, 1, 1)	The girls have really explained that the drivers have laughed in 	The girls have not explained that the drivers have laughed in 	years	in years	sentential_negation_biclausal	upward
+19146	(1, 1, 1)	Only the drivers had lied at 	Even the drivers had lied at 	all	at all	only	downward
+39098	(0, 1, 1)	The cashier had really said that the adults were insulting the ladies 	The cashier had not said that the adults were insulting the ladies 	either	either	sentential_negation_biclausal	upward
+10758	(0, 1, 1)	While the waiter leaves the teenagers 	If the waiter leaves the teenagers 	either	either	conditional	upward
+18444	(1, 1, 1)	Only the girls were investigating 	Even the girls were investigating 	any	any	only	downward
+5060	(1, 1, 1)	If the teachers 	While the teachers 	ever	ever	conditional	downward
+51525	(1, 1, 1)	The boys who toured the oldest high school in 	The boys who toured the old high school in 	years	in years	superlative	downward
+8380	(0, 1, 1)	While the boys observe the patients at 	If the boys observe the patients at 	all	at all	conditional	upward
+51424	(0, 1, 1)	The pedestrians who praised the happy waitress in 	The pedestrians who praised the happiest waitress in 	years	in years	superlative	upward
+50983	(0, 1, 1)	An actress who liked the big glasses 	An actress who liked the biggest glasses 	yet	yet	superlative	upward
+21964	(1, 1, 1)	Only the boys have benefited in 	Even the boys have benefited in 	years	in years	only	downward
+17350	(0, 1, 1)	Even the senator has 	Only the senator has 	ever	ever	only	upward
+28577	(0, 1, 1)	Many men who sold the books 	All men who sold the books 	either	either	quantifier	upward
+43716	(0, 1, 1)	The people will be at the restaurants at 	Will the people be at the restaurants at 	all	at all	simplequestions	upward
+9458	(0, 1, 1)	While the doctors had helped the actors in 	If the doctors had helped the actors in 	years	in years	conditional	upward
+25473	(0, 1, 1)	The waitress who is criticizing more than three customers 	Every waitress who is criticizing more than three customers 	yet	yet	quantifier	upward
+40914	(1, 1, 1)	The actors were not thinking that 	The actors were really thinking that 	any	any	sentential_negation_biclausal	downward
+19753	(0, 1, 1)	Even the actress was passing grocery stores at 	Only the actress was passing grocery stores at 	all	at all	only	upward
+40798	(1, 1, 1)	Those drivers were not saying that 	Those drivers were really saying that 	any	any	sentential_negation_biclausal	downward
+28251	(1, 1, 1)	Every pedestrian who approaches a lot of people 	Some pedestrian who approaches a lot of people 	either	either	quantifier	downward
+51441	(1, 1, 1)	The ladies who discussed the most popular guy in 	The ladies who discussed the popular guy in 	years	in years	superlative	downward
+36326	(1, 1, 1)	The ladies can not imagine that the movie theater should resemble the waiter 	The ladies can really imagine that the movie theater should resemble the waiter 	yet	yet	sentential_negation_biclausal	downward
+33040	(1, 1, 1)	The students have wondered whether the child has passed the hospitals in 	The students have said that the child has passed hospitals in 	years	in years	questions	downward
+17558	(0, 1, 1)	Even the actresses have 	Only the actresses have 	ever	ever	only	upward
+43577	(0, 1, 1)	The people have biked to the restaurants at 	Have the people biked to the restaurants at 	all	at all	simplequestions	upward
+52679	(1, 1, 1)	The actor who praised the most important doctors 	The actor who praised the important doctors 	either	either	superlative	downward
+16000	(1, 1, 1)	None of the ladies say that 	Some ladies say that 	any	any	determiner_negation_biclausal	downward
+13701	(0, 1, 1)	Some actors said that the waitresses suffer at 	No actors said that the waitresses suffer at 	all	at all	determiner_negation_biclausal	upward
+37213	(0, 1, 1)	The drivers have really imagined that the driver has attacked the waitresses at 	The drivers have not imagined that the driver has attacked the waitresses at 	all	at all	sentential_negation_biclausal	upward
+10873	(1, 1, 1)	If the cashiers arrive at the malls 	While the cashiers arrive at the malls 	either	either	conditional	downward
+3410	(0, 1, 1)	The guys who had sometimes examined brochures in 	The guys who had seldom examined brochures in 	years	in years	adverbs	upward
+30316	(0, 1, 1)	The girls say that the women have disliked 	The girls wonder whether the women have disliked 	any	any	questions	upward
+38563	(0, 1, 1)	A lady had really imagined that the boy has stretched in 	A lady had not imagined that the boy has stretched in 	years	in years	sentential_negation_biclausal	upward
+9234	(0, 1, 1)	While the men have kissed the ladies in 	If the men have kissed the ladies in 	years	in years	conditional	upward
+18185	(0, 1, 1)	Even the waitresses hug 	Only the waitresses hug 	any	any	only	upward
+7653	(1, 1, 1)	If the actors break the cups 	While the actors break the cups 	yet	yet	conditional	downward
+22138	(1, 1, 1)	Only a woman has saluted 	Even a woman has saluted 	either	either	only	downward
+52079	(0, 1, 1)	A dancer who attacked the young teacher 	A dancer who attacked the youngest teacher 	either	either	superlative	upward
+44646	(1, 1, 1)	Has the actress hugged the children in 	The actress has hugged the children in 	years	in years	simplequestions	downward
+9274	(1, 1, 1)	If the waiter has seen the chairs in 	While the waiter has seen the chairs in 	years	in years	conditional	downward
+22700	(1, 1, 1)	Only a driver sang 	Even a driver sang 	either	either	only	downward
+42675	(1, 1, 1)	Had the man ran around 	The man had ran around 	any	any	simplequestions	downward
+42210	(1, 1, 1)	Has the dancer praised 	The dancer has praised 	any	any	simplequestions	downward
+16053	(0, 1, 1)	Some boys had said that 	No boys had said that 	any	any	determiner_negation_biclausal	upward
+32179	(0, 1, 1)	The patients have said that the customers could praise the ladies at 	The patients have wondered whether the customers could praise ladies at 	all	at all	questions	upward
+22570	(0, 1, 1)	Even the man is screaming 	Only the man is screaming 	either	either	only	upward
+7340	(0, 1, 1)	While the teachers respect the boys 	If the teachers respect the boys 	yet	yet	conditional	upward
+33538	(0, 1, 1)	The drivers have said that the boy exits movie theaters in 	The drivers have wondered whether the boy exits the movie theaters in 	years	in years	questions	upward
+46069	(1, 1, 1)	Will the student resemble the art galleries 	The student will resemble the art galleries 	either	either	simplequestions	downward
+20336	(1, 1, 1)	Only the women kissed boys 	Even the women kissed boys 	yet	yet	only	downward
+26577	(1, 1, 1)	Every pedestrian who kisses some boys at 	The pedestrian who kisses some boys at 	all	at all	quantifier	downward
+12281	(1, 1, 1)	None of the women have explained that the movies could disagree 	Some women have explained that the movies could disagree 	yet	yet	determiner_negation_biclausal	downward
+39332	(1, 1, 1)	The teachers have not explained that the plays were criticizing the public parks 	The teachers have really explained that the plays were criticizing the public parks 	either	either	sentential_negation_biclausal	downward
+49239	(0, 1, 1)	The child who remembered the popular teenagers at 	The child who remembered the most popular teenagers at 	all	at all	superlative	upward
+37412	(1, 1, 1)	The pedestrians have not thought that the lady had struggled at 	The pedestrians have really thought that the lady had struggled at 	all	at all	sentential_negation_biclausal	downward
+8994	(1, 1, 1)	If the women hug the teenagers at 	While the women hug the teenagers at 	all	at all	conditional	downward
+23487	(1, 1, 1)	Every student who examines 	The student who examines 	any	any	quantifier	downward
+2737	(0, 1, 1)	The patients who often lift forks at 	The patients who barely lift forks at 	all	at all	adverbs	upward
+31054	(1, 1, 1)	The waitresses have wondered whether the cashier was working with teachers 	The waitresses have said that the cashier was working with the teachers 	yet	yet	questions	downward
+8380	(1, 1, 1)	If the boys observe the patients at 	While the boys observe the patients at 	all	at all	conditional	downward
+17960	(0, 1, 1)	Even the teenagers do 	Only the teenagers do 	ever	ever	only	upward
+50356	(0, 1, 1)	The teacher who brought the good rugs 	The teacher who brought the best rugs 	yet	yet	superlative	upward
+33646	(1, 1, 1)	The pedestrians have wondered whether the actress was wearing the pants in 	The pedestrians have said that the actress was wearing pants in 	years	in years	questions	downward
+22992	(1, 1, 1)	Only the guest does speak up 	Even the guest does speak up 	either	either	only	downward
+19375	(1, 1, 1)	Only the actresses spin around at 	Even the actresses spin around at 	all	at all	only	downward
+37572	(0, 1, 1)	A senator is really thinking that the movie theaters will resemble the public parks at 	A senator is not thinking that the movie theaters will resemble the public parks at 	all	at all	sentential_negation_biclausal	upward
+36963	(1, 1, 1)	The men might not imagine that the actresses have painted 	The men might really imagine that the actresses have painted 	yet	yet	sentential_negation_biclausal	downward
+47613	(1, 1, 1)	A patient had talked about the biggest patient that the student had 	A patient had talked about the big patient that the student had 	ever	ever	superlative	downward
+3889	(0, 1, 1)	The actresses who often loved fish in 	The actresses who barely loved fish in 	years	in years	adverbs	upward
+41372	(1, 1, 1)	Will the cashiers 	The cashiers will 	ever	ever	simplequestions	downward
+47682	(0, 1, 1)	The girls dislike the young ladies that the patient had 	The girls dislike the youngest ladies that the patient had 	ever	ever	superlative	upward
+45614	(1, 1, 1)	Will the teacher admire the ladies 	The teacher will admire the ladies 	yet	yet	simplequestions	downward
+36629	(0, 1, 1)	A customer has really imagined that the books were disagreeing 	A customer has not imagined that the books were disagreeing 	yet	yet	sentential_negation_biclausal	upward
+28086	(1, 1, 1)	Every person who likes many forks 	Some person who likes many forks 	either	either	quantifier	downward
+46924	(0, 1, 1)	The guests are buying the forks 	Are the guests buying the forks 	either	either	simplequestions	upward
+43867	(0, 1, 1)	The teacher was lifting the shoes at 	Was the teacher lifting the shoes at 	all	at all	simplequestions	upward
+40510	(0, 1, 1)	Those gals would really imagine that 	Those gals would not imagine that 	any	any	sentential_negation_biclausal	upward
+34454	(1, 1, 1)	The women have wondered whether the children are being at the public parks 	The women have said that the children are being at the public parks 	either	either	questions	downward
+38905	(1, 1, 1)	The woman has not said that a waitress had chuckled in 	The woman has really said that a waitress had chuckled in 	years	in years	sentential_negation_biclausal	downward
+18463	(0, 1, 1)	Even the guests do reference 	Only the guests do reference 	any	any	only	upward
+33428	(1, 1, 1)	The boys have wondered whether the children are watching the dancers in 	The boys have said that the children are watching dancers in 	years	in years	questions	downward
+29012	(1, 1, 1)	The adults wonder whether the waitress 	The adults say that the waitress 	ever	ever	questions	downward
+1732	(0, 1, 1)	The senator who always escapes from 	The senator who scarcely escapes from 	any	any	adverbs	upward
+39385	(1, 1, 1)	The child had not said that an actress will drive to the hospital 	The child had really said that an actress will drive to the hospital 	either	either	sentential_negation_biclausal	downward
+11406	(1, 1, 1)	None of the boys have 	Some boys have 	ever	ever	determiner_negation_biclausal	downward
+15129	(0, 1, 1)	Some dancer has imagined that the children laugh 	No dancer has imagined that the children laugh 	either	either	determiner_negation_biclausal	upward
+44050	(1, 1, 1)	Have the pedestrians cared for the women in 	The pedestrians have cared for the women in 	years	in years	simplequestions	downward
+33098	(1, 1, 1)	The people have wondered whether the actress should forget the plays in 	The people have said that the actress should forget plays in 	years	in years	questions	downward
+17862	(0, 1, 1)	Even the students can 	Only the students can 	ever	ever	only	upward
+36239	(1, 1, 1)	The guys do not say that a customer is learning 	The guys do really say that a customer is learning 	yet	yet	sentential_negation_biclausal	downward
+42689	(1, 1, 1)	Should the doctor leave 	The doctor should leave 	any	any	simplequestions	downward
+43448	(1, 1, 1)	Might the boys buy the glasses at 	The boys might buy the glasses at 	all	at all	simplequestions	downward
+16477	(0, 1, 1)	Some drivers are imagining that 	No drivers are imagining that 	any	any	determiner_negation_biclausal	upward
+32390	(1, 1, 1)	The waiters have wondered whether the actors leave grocery stores at 	The waiters have said that the actors leave the grocery stores at 	all	at all	questions	downward
+18294	(0, 1, 1)	Even the drivers scanned 	Only the drivers scanned 	any	any	only	upward
+49708	(1, 1, 1)	The children who drove to the most popular high schools at 	The children who drove to the popular high schools at 	all	at all	superlative	downward
+18092	(0, 1, 1)	Even the children had brought 	Only the children had brought 	any	any	only	upward
+20188	(1, 1, 1)	Only the guests admire ladies 	Even the guests admire ladies 	yet	yet	only	downward
+40719	(1, 1, 1)	Those waiters are not saying that 	Those waiters are really saying that 	any	any	sentential_negation_biclausal	downward
+25015	(0, 1, 1)	A lot of men who drove to schools 	All men who drove to schools 	yet	yet	quantifier	upward
+33599	(0, 1, 1)	The actresses have said that the patient does arrive at public parks in 	The actresses have wondered whether the patient does arrive at the public parks in 	years	in years	questions	upward
+4109	(1, 1, 1)	A person who rarely resembles glasses 	A person who sometimes resembles glasses 	either	either	adverbs	downward
+33828	(1, 1, 1)	The teenagers have wondered whether the waitress resembles the movie theaters in 	The teenagers have said that the waitress resembles movie theaters in 	years	in years	questions	downward
+13179	(1, 1, 1)	None of the waitresses say that the plates resemble a man at 	Some waitresses say that the plates resemble a man at 	all	at all	determiner_negation_biclausal	downward
+26004	(0, 1, 1)	Some teacher who was bringing books at 	Every teacher who was bringing books at 	all	at all	quantifier	upward
+25268	(0, 1, 1)	More than three guests who were cleaning pants 	Any guests who were cleaning pants 	yet	yet	quantifier	upward
+7415	(1, 1, 1)	If the customers like the actresses 	While the customers like the actresses 	yet	yet	conditional	downward
+36287	(1, 1, 1)	A waitress had not thought that the bank did resemble the restaurant 	A waitress had really thought that the bank did resemble the restaurant 	yet	yet	sentential_negation_biclausal	downward
+11023	(0, 1, 1)	Some teenagers have 	No teenagers have 	ever	ever	determiner_negation_biclausal	upward
+1279	(0, 1, 1)	A pedestrian who often does investigate 	A pedestrian who hardly does investigate 	any	any	adverbs	upward
+45917	(0, 1, 1)	The patient was passing the art galleries 	Was the patient passing the art galleries 	yet	yet	simplequestions	upward
+40278	(1, 1, 1)	The girls did not think that 	The girls did really think that 	any	any	sentential_negation_biclausal	downward
+10501	(0, 1, 1)	While the cashier boycotts the museums 	If the cashier boycotts the museums 	either	either	conditional	upward
+37508	(1, 1, 1)	An actor was not thinking that the reports did insult the museum at 	An actor was really thinking that the reports did insult the museum at 	all	at all	sentential_negation_biclausal	downward
+46086	(0, 1, 1)	The senators are wearing the pants 	Are the senators wearing the pants 	either	either	simplequestions	upward
+52588	(0, 1, 1)	The waitresses who visited the fast pedestrian 	The waitresses who visited the fastest pedestrian 	either	either	superlative	upward
+21030	(0, 1, 1)	Even the girls have sold plates in 	Only the girls have sold plates in 	years	in years	only	upward
+9005	(1, 1, 1)	If the ladies have talked to the waiters in 	While the ladies have talked to the waiters in 	years	in years	conditional	downward
+14933	(0, 1, 1)	Some student had thought that the gals have sold the books in 	No student had thought that the gals have sold the books in 	years	in years	determiner_negation_biclausal	upward
+36841	(0, 1, 1)	The teachers were really thinking that the waitresses had interacted 	The teachers were not thinking that the waitresses had interacted 	yet	yet	sentential_negation_biclausal	upward
+24172	(1, 1, 1)	Any men who had 	More than three men who had 	ever	ever	quantifier	downward
+36147	(0, 1, 1)	The actors will really think that the bank will resemble the adult 	The actors will not think that the bank will resemble the adult 	yet	yet	sentential_negation_biclausal	upward
+36124	(0, 1, 1)	The teenagers were really thinking that the gals had hugged a doctor 	The teenagers were not thinking that the gals had hugged a doctor 	yet	yet	sentential_negation_biclausal	upward
+18469	(1, 1, 1)	Only the teenagers insult 	Even the teenagers insult 	any	any	only	downward
+38502	(1, 1, 1)	The cashiers had not imagined that the documentary has praised the guys in 	The cashiers had really imagined that the documentary has praised the guys in 	years	in years	sentential_negation_biclausal	downward
+18860	(1, 1, 1)	Only the girls described 	Even the girls described 	any	any	only	downward
+18225	(1, 1, 1)	Only the girls return to 	Even the girls return to 	any	any	only	downward
+31287	(0, 1, 1)	The adults have said that the senator has worn the glasses 	The adults have wondered whether the senator has worn glasses 	yet	yet	questions	upward
+18410	(0, 1, 1)	Even the doctors had been at 	Only the doctors had been at 	any	any	only	upward
+20193	(1, 1, 1)	Only the boys care for customers 	Even the boys care for customers 	yet	yet	only	downward
+44399	(0, 1, 1)	The ladies had lifted the dishes in 	Had the ladies lifted the dishes in 	years	in years	simplequestions	upward
+20891	(1, 1, 1)	Only the adults flirted 	Even the adults flirted 	yet	yet	only	downward
+34847	(0, 1, 1)	The pedestrians have said that the teenager had referenced the drivers 	The pedestrians have wondered whether the teenager had referenced the drivers 	either	either	questions	upward
+38405	(1, 1, 1)	The students had not explained that the play has disagreed in 	The students had really explained that the play has disagreed in 	years	in years	sentential_negation_biclausal	downward
+47147	(1, 1, 1)	A person should watch the fastest doctors that the waiter has 	A person should watch the fast doctors that the waiter has 	ever	ever	superlative	downward
+6441	(0, 1, 1)	While the cashiers see 	If the cashiers see 	any	any	conditional	upward
+10843	(0, 1, 1)	While the waiter references the pedestrians 	If the waiter references the pedestrians 	either	either	conditional	upward
+24451	(0, 1, 1)	Some guests who 	All guests who 	ever	ever	quantifier	upward
+40833	(0, 1, 1)	Those adults are really saying that 	Those adults are not saying that 	any	any	sentential_negation_biclausal	upward
+42066	(0, 1, 1)	The woman did hug 	Did the woman hug 	any	any	simplequestions	upward
+52857	(1, 1, 1)	The pedestrians who scanned the longest newspaper article 	The pedestrians who scanned the long newspaper article 	either	either	superlative	downward
+38550	(1, 1, 1)	The guests had not imagined that the actresses had talked to a dancer in 	The guests had really imagined that the actresses had talked to a dancer in 	years	in years	sentential_negation_biclausal	downward
+31272	(0, 1, 1)	The waiters have said that the dancer could approach the girls 	The waiters have wondered whether the dancer could approach girls 	yet	yet	questions	upward
+22622	(1, 1, 1)	Only a boy was approving 	Even a boy was approving 	either	either	only	downward
+13540	(0, 1, 1)	Some dancer is explaining that the senators had smiled at 	No dancer is explaining that the senators had smiled at 	all	at all	determiner_negation_biclausal	upward
+13614	(1, 1, 1)	No adult is saying that the pants shrank at 	Some adult is saying that the pants shrank at 	all	at all	determiner_negation_biclausal	downward
+13717	(1, 1, 1)	No adult said that the drivers might clean the reports at 	Some adult said that the drivers might clean the reports at 	all	at all	determiner_negation_biclausal	downward
+15097	(0, 1, 1)	Some waitresses would explain that the cups resemble the commentaries 	None of the waitresses would explain that the cups resemble the commentaries 	either	either	determiner_negation_biclausal	upward
+30300	(1, 1, 1)	The actors wonder whether the child escapes from 	The actors say that the child escapes from 	any	any	questions	downward
+51328	(1, 1, 1)	An actress who visited the biggest cafes in 	An actress who visited the big cafes in 	years	in years	superlative	downward
+16552	(0, 1, 1)	Some senators did think that 	None of the senators did think that 	any	any	determiner_negation_biclausal	upward
+47864	(1, 1, 1)	The guests have talked to the fastest people that the dancers had 	The guests have talked to the fast people that the dancers had 	ever	ever	superlative	downward
+36448	(1, 1, 1)	A driver was not thinking that a child had worked with the students 	A driver was really thinking that a child had worked with the students 	yet	yet	sentential_negation_biclausal	downward
+4978	(1, 1, 1)	The waiter who hardly concurred 	The waiter who sometimes concurred 	either	either	adverbs	downward
+16633	(0, 1, 1)	Some actors explained that 	No actors explained that 	any	any	determiner_negation_biclausal	upward
+26722	(1, 1, 1)	All teachers who had hugged the guys at 	Many teachers who had hugged the guys at 	all	at all	quantifier	downward
+4130	(0, 1, 1)	The adults who had sometimes observed teachers 	The adults who had seldom observed teachers 	either	either	adverbs	upward
+28510	(1, 1, 1)	Every teacher who had boycotted many college campuses 	A teacher who had boycotted many college campuses 	either	either	quantifier	downward
+10176	(1, 1, 1)	If the lady leaves the guests 	While the lady leaves the guests 	either	either	conditional	downward
+33358	(0, 1, 1)	The patients have said that the waiter walks through public parks in 	The patients have wondered whether the waiter walks through the public parks in 	years	in years	questions	upward
+14463	(0, 1, 1)	Some child said that the adults married in 	No child said that the adults married in 	years	in years	determiner_negation_biclausal	upward
+21335	(1, 1, 1)	Only a patient resembled pants in 	Even a patient resembled pants in 	years	in years	only	downward
+20321	(0, 1, 1)	Even the actresses reacted 	Only the actresses reacted 	yet	yet	only	upward
+31981	(1, 1, 1)	The men have wondered whether the senators skate around cafes 	The men have said that the senators skate around the cafes 	yet	yet	questions	downward
+31531	(1, 1, 1)	The guys have wondered whether the pedestrian can tour art galleries 	The guys have said that the pedestrian can tour the art galleries 	yet	yet	questions	downward
+12611	(0, 1, 1)	Some gals had imagined that the boys can eat 	No gals had imagined that the boys can eat 	yet	yet	determiner_negation_biclausal	upward
+7132	(0, 1, 1)	While the waiter discusses the guys 	If the waiter discusses the guys 	yet	yet	conditional	upward
+11094	(1, 1, 1)	No teacher was 	Some teacher was 	ever	ever	determiner_negation_biclausal	downward
+50490	(1, 1, 1)	The men who kissed the happiest adults 	The men who kissed the happy adults 	yet	yet	superlative	downward
+27055	(0, 1, 1)	Many women who had investigated more than three pedestrians in 	Any women who had investigated more than three pedestrians in 	years	in years	quantifier	upward
+19435	(0, 1, 1)	Even the patient could skate around public parks at 	Only the patient could skate around public parks at 	all	at all	only	upward
+8362	(1, 1, 1)	If the actress boycotts the cafes at 	While the actress boycotts the cafes at 	all	at all	conditional	downward
+35392	(1, 1, 1)	An adult was not 	An adult was really 	ever	ever	sentential_negation_biclausal	downward
+50177	(0, 1, 1)	The drivers who examined the long reports 	The drivers who examined the longest reports 	yet	yet	superlative	upward
+25513	(0, 1, 1)	The pedestrians who had escaped from some teenagers 	All pedestrians who had escaped from some teenagers 	yet	yet	quantifier	upward
+7812	(0, 1, 1)	While the patient hates the drivers 	If the patient hates the drivers 	yet	yet	conditional	upward
+52657	(0, 1, 1)	The doctors who disliked the old customer 	The doctors who disliked the oldest customer 	either	either	superlative	upward
+23073	(0, 1, 1)	Many waitresses who did buy 	Any waitresses who did buy 	any	any	quantifier	upward
+3186	(0, 1, 1)	The doctors who always laughed in 	The doctors who seldom laughed in 	years	in years	adverbs	upward
+14615	(1, 1, 1)	None of the boys have imagined that the senators cried in 	Some boys have imagined that the senators cried in 	years	in years	determiner_negation_biclausal	downward
+45656	(0, 1, 1)	The guys had cared for the teenagers 	Had the guys cared for the teenagers 	yet	yet	simplequestions	upward
+13607	(1, 1, 1)	No girl said that the plays did disagree at 	Some girl said that the plays did disagree at 	all	at all	determiner_negation_biclausal	downward
+9525	(0, 1, 1)	While the senators had arrived at the public parks in 	If the senators had arrived at the public parks in 	years	in years	conditional	upward
+52558	(0, 1, 1)	The girls who remembered the small books 	The girls who remembered the smallest books 	either	either	superlative	upward
+20702	(1, 1, 1)	Only the doctors know men 	Even the doctors know men 	yet	yet	only	downward
+26918	(1, 1, 1)	Every teenager who was admiring some customers at 	The teenager who was admiring some customers at 	all	at all	quantifier	downward
+34216	(0, 1, 1)	The waiters have said that the senators were exiting the banks 	The waiters have wondered whether the senators were exiting the banks 	either	either	questions	upward
+37713	(0, 1, 1)	The man had really imagined that the book has referenced the children at 	The man had not imagined that the book has referenced the children at 	all	at all	sentential_negation_biclausal	upward
+41052	(0, 1, 1)	The ladies had 	Had the ladies 	ever	ever	simplequestions	upward
+16396	(1, 1, 1)	No drivers are explaining that 	Some drivers are explaining that 	any	any	determiner_negation_biclausal	downward
+30247	(0, 1, 1)	The guys say that the senators exit 	The guys wonder whether the senators exit 	any	any	questions	upward
+10841	(1, 1, 1)	If the guest hugs the children 	While the guest hugs the children 	either	either	conditional	downward
+48991	(0, 1, 1)	The men are selling the cheap plates that 	The men are selling the cheapest plates that 	any	any	superlative	upward
+51426	(1, 1, 1)	The guests who remembered the most popular documentary in 	The guests who remembered the popular documentary in 	years	in years	superlative	downward
+48275	(0, 1, 1)	The hospitals do resemble the old couches that 	The hospitals do resemble the oldest couches that 	any	any	superlative	upward
+31142	(0, 1, 1)	The waiters have said that the person investigates the boys 	The waiters have wondered whether the person investigates boys 	yet	yet	questions	upward
+27452	(0, 1, 1)	Some dancer who praised many actresses in 	Every dancer who praised many actresses in 	years	in years	quantifier	upward
+43866	(0, 1, 1)	The child has boycotted the college campuses at 	Has the child boycotted the college campuses at 	all	at all	simplequestions	upward
+22207	(1, 1, 1)	Only the cashiers have chuckled 	Even the cashiers have chuckled 	either	either	only	downward
+8755	(0, 1, 1)	While the waitresses insult the commentaries at 	If the waitresses insult the commentaries at 	all	at all	conditional	upward
+18729	(0, 1, 1)	Even the cashiers toured 	Only the cashiers toured 	any	any	only	upward
+7586	(0, 1, 1)	While the child insults the movie theaters 	If the child insults the movie theaters 	yet	yet	conditional	upward
+4244	(0, 1, 1)	The women who always whisper 	The women who scarcely whisper 	either	either	adverbs	upward
+9763	(1, 1, 1)	If the guest had boycotted the libraries in 	While the guest had boycotted the libraries in 	years	in years	conditional	downward
+19999	(0, 1, 1)	Even the girl has remembered public parks at 	Only the girl has remembered public parks at 	all	at all	only	upward
+38778	(1, 1, 1)	The women have not imagined that the actors have praised an essay in 	The women have really imagined that the actors have praised an essay in 	years	in years	sentential_negation_biclausal	downward
+47087	(1, 1, 1)	The adults could talk about the most popular schools that the adults have 	The adults could talk about the popular schools that the adults have 	ever	ever	superlative	downward
+19542	(1, 1, 1)	Only the waiter had washed at 	Even the waiter had washed at 	all	at all	only	downward
+43407	(1, 1, 1)	Had the child hugged the boys at 	The child had hugged the boys at 	all	at all	simplequestions	downward
+50115	(1, 1, 1)	The man who talked to the smallest girl 	The man who talked to the small girl 	yet	yet	superlative	downward
+45929	(1, 1, 1)	Had the people scanned the commentaries 	The people had scanned the commentaries 	yet	yet	simplequestions	downward
+48352	(0, 1, 1)	The teachers liked the big people that 	The teachers liked the biggest people that 	any	any	superlative	upward
+33610	(0, 1, 1)	The dancers have said that the boys did respect restaurants in 	The dancers have wondered whether the boys did respect the restaurants in 	years	in years	questions	upward
+32555	(1, 1, 1)	The students have wondered whether the actors have helped dancers at 	The students have said that the actors have helped the dancers at 	all	at all	questions	downward
+1552	(0, 1, 1)	A customer who has always arrived at 	A customer who has hardly arrived at 	any	any	adverbs	upward
+7510	(0, 1, 1)	While the teacher hates the reports 	If the teacher hates the reports 	yet	yet	conditional	upward
+14521	(1, 1, 1)	No driver said that the ladies had worn a skirt in 	Some driver said that the ladies had worn a skirt in 	years	in years	determiner_negation_biclausal	downward
+25667	(0, 1, 1)	Some driver who has scanned documentaries 	Every driver who has scanned documentaries 	yet	yet	quantifier	upward
+20168	(0, 1, 1)	Even the cashiers brought rugs 	Only the cashiers brought rugs 	yet	yet	only	upward
+14956	(1, 1, 1)	No drivers said that the actresses have discussed a senator in 	Some drivers said that the actresses have discussed a senator in 	years	in years	determiner_negation_biclausal	downward
+52924	(0, 1, 1)	A girl who listened to the good doctors 	A girl who listened to the best doctors 	either	either	superlative	upward
+1664	(0, 1, 1)	The teenagers who sometimes love 	The teenagers who scarcely love 	any	any	adverbs	upward
+13160	(1, 1, 1)	None of the waitresses have imagined that the waiters clean the reports at 	Some waitresses have imagined that the waiters clean the reports at 	all	at all	determiner_negation_biclausal	downward
+9575	(1, 1, 1)	If the customer had hated the girls in 	While the customer had hated the girls in 	years	in years	conditional	downward
+18378	(1, 1, 1)	Only the drivers are running around 	Even the drivers are running around 	any	any	only	downward
+25707	(0, 1, 1)	Some children who are driving to many movie theaters 	Any children who are driving to many movie theaters 	yet	yet	quantifier	upward
+33909	(0, 1, 1)	The teachers have said that the actors loved doctors in 	The teachers have wondered whether the actors loved the doctors in 	years	in years	questions	upward
+45359	(0, 1, 1)	The woman does like the glasses 	Does the woman like the glasses 	yet	yet	simplequestions	upward
+21287	(0, 1, 1)	Even an actress fled from schools in 	Only an actress fled from schools in 	years	in years	only	upward
+14618	(0, 1, 1)	Some driver thought that the stories insulted the mall in 	No driver thought that the stories insulted the mall in 	years	in years	determiner_negation_biclausal	upward
+8765	(1, 1, 1)	If the children remember the hospitals at 	While the children remember the hospitals at 	all	at all	conditional	downward
+21798	(0, 1, 1)	Even the guest died in 	Only the guest died in 	years	in years	only	upward
+19293	(0, 1, 1)	Even the actors escape from women at 	Only the actors escape from women at 	all	at all	only	upward
+12167	(0, 1, 1)	Some children explained that the actors had walked through the banks 	No children explained that the actors had walked through the banks 	yet	yet	determiner_negation_biclausal	upward
+38519	(0, 1, 1)	The adult really said that the pedestrians had replied in 	The adult not said that the pedestrians had replied in 	years	in years	sentential_negation_biclausal	upward
+33252	(0, 1, 1)	The men have said that the student would have pants in 	The men have wondered whether the student would have the pants in 	years	in years	questions	upward
+37591	(0, 1, 1)	The senators are really explaining that the cars might resemble the essay at 	The senators are not explaining that the cars might resemble the essay at 	all	at all	sentential_negation_biclausal	upward
+26238	(1, 1, 1)	Any boys who observed the cashiers at 	A lot of boys who observed the cashiers at 	all	at all	quantifier	downward
+39686	(0, 1, 1)	The people had really thought that the high school might resemble the forks 	The people had not thought that the high school might resemble the forks 	either	either	sentential_negation_biclausal	upward
+24384	(0, 1, 1)	A man who might 	Every man who might 	ever	ever	quantifier	upward
+18495	(1, 1, 1)	Only the boys had explored 	Even the boys had explored 	any	any	only	downward
+23538	(1, 1, 1)	Every guest who should watch 	Some guest who should watch 	any	any	quantifier	downward
+18043	(1, 1, 1)	Only the waitresses have observed 	Even the waitresses have observed 	any	any	only	downward
+22177	(1, 1, 1)	Only the cashier is benefiting 	Even the cashier is benefiting 	either	either	only	downward
+13656	(1, 1, 1)	No teachers do say that the libraries can resemble the restaurants at 	Some teachers do say that the libraries can resemble the restaurants at 	all	at all	determiner_negation_biclausal	downward
+48227	(1, 1, 1)	The children have praised the youngest waiter that 	The children have praised the young waiter that 	any	any	superlative	downward
+52565	(0, 1, 1)	A waitress who liked the big car 	A waitress who liked the biggest car 	either	either	superlative	upward
+4386	(0, 1, 1)	The waiters who often praised plays 	The waiters who hardly praised plays 	either	either	adverbs	upward
+27111	(0, 1, 1)	Many drivers who visited a lot of waiters in 	Any drivers who visited a lot of waiters in 	years	in years	quantifier	upward
+33991	(0, 1, 1)	The guys have said that the dancers will dislike reports in 	The guys have wondered whether the dancers will dislike the reports in 	years	in years	questions	upward
+36248	(0, 1, 1)	The actors had really imagined that the adults have driven to the hospital 	The actors had not imagined that the adults have driven to the hospital 	yet	yet	sentential_negation_biclausal	upward
+34859	(0, 1, 1)	The patients have said that the women were arriving at the public parks 	The patients have wondered whether the women were arriving at the public parks 	either	either	questions	upward
+7347	(1, 1, 1)	If the waitress forgets the girls 	While the waitress forgets the girls 	yet	yet	conditional	downward
+26409	(0, 1, 1)	A pedestrian who has praised some boys at 	Every pedestrian who has praised some boys at 	all	at all	quantifier	upward
+39320	(0, 1, 1)	The waiters were really thinking that the waiters have reacted 	The waiters were not thinking that the waiters have reacted 	either	either	sentential_negation_biclausal	upward
+52878	(0, 1, 1)	The guest who walked through the cheap movie theater 	The guest who walked through the cheapest movie theater 	either	either	superlative	upward
+11045	(1, 1, 1)	No guy has 	Some guy has 	ever	ever	determiner_negation_biclausal	downward
+49331	(0, 1, 1)	A girl who described the cheap art galleries at 	A girl who described the cheapest art galleries at 	all	at all	superlative	upward
+34546	(1, 1, 1)	The cashiers have wondered whether the girls insulted the teachers 	The cashiers have said that the girls insulted the teachers 	either	either	questions	downward
+16293	(0, 1, 1)	Some actresses have imagined that 	None of the actresses have imagined that 	any	any	determiner_negation_biclausal	upward
+10271	(1, 1, 1)	If the students observe the patients 	While the students observe the patients 	either	either	conditional	downward
+4084	(0, 1, 1)	The dancers who often reference essays 	The dancers who barely reference essays 	either	either	adverbs	upward
+32330	(1, 1, 1)	The drivers have wondered whether the driver is hugging waiters at 	The drivers have said that the driver is hugging the waiters at 	all	at all	questions	downward
+41178	(0, 1, 1)	The teacher has 	Has the teacher 	ever	ever	simplequestions	upward
+21146	(1, 1, 1)	Only a senator respected teachers in 	Even a senator respected teachers in 	years	in years	only	downward
+10411	(1, 1, 1)	If the customer respects the customers 	While the customer respects the customers 	either	either	conditional	downward
+12129	(1, 1, 1)	No ladies thought that the teachers explore the banks 	Some ladies thought that the teachers explore the banks 	yet	yet	determiner_negation_biclausal	downward
+34236	(1, 1, 1)	The adults have wondered whether the actress had respected the college campuses 	The adults have said that the actress had respected the college campuses 	either	either	questions	downward
+48263	(0, 1, 1)	The high schools resemble the serious customers that 	The high schools resemble the most serious customers that 	any	any	superlative	upward
+28806	(0, 1, 1)	The ladies who go to cafes 	All ladies who go to cafes 	either	either	quantifier	upward
+17088	(1, 1, 1)	Only the woman 	Even the woman 	ever	ever	only	downward
+20173	(0, 1, 1)	Even the women criticize plays 	Only the women criticize plays 	yet	yet	only	upward
+52028	(0, 1, 1)	The children who forgot the good book 	The children who forgot the best book 	either	either	superlative	upward
+25231	(1, 1, 1)	Every child who dislikes the children 	Some child who dislikes the children 	yet	yet	quantifier	downward
+6448	(0, 1, 1)	While the actors flee from 	If the actors flee from 	any	any	conditional	upward
+18621	(1, 1, 1)	Only the humans buy 	Even the humans buy 	any	any	only	downward
+52703	(1, 1, 1)	The ladies who saw the best forks 	The ladies who saw the good forks 	either	either	superlative	downward
+10932	(1, 1, 1)	If the waitress helps the patients 	While the waitress helps the patients 	either	either	conditional	downward
+39455	(1, 1, 1)	The children were not thinking that the malls will resemble the cup 	The children were really thinking that the malls will resemble the cup 	either	either	sentential_negation_biclausal	downward
+43696	(1, 1, 1)	Were the teenagers watching the students at 	The teenagers were watching the students at 	all	at all	simplequestions	downward
+45600	(0, 1, 1)	The actress is running around the malls 	Is the actress running around the malls 	yet	yet	simplequestions	upward
+33200	(0, 1, 1)	The senators have said that the children are being at schools in 	The senators have wondered whether the children are being at the schools in 	years	in years	questions	upward
+21406	(1, 1, 1)	Only the lady has waved in 	Even the lady has waved in 	years	in years	only	downward
+8092	(0, 1, 1)	While the patient works with the waiters at 	If the patient works with the waiters at 	all	at all	conditional	upward
+14019	(1, 1, 1)	No girls had imagined that the pants had shrunk in 	Some girls had imagined that the pants had shrunk in 	years	in years	determiner_negation_biclausal	downward
+10794	(1, 1, 1)	If the patient observes the actors 	While the patient observes the actors 	either	either	conditional	downward
+35107	(1, 1, 1)	The customer will not 	The customer will really 	ever	ever	sentential_negation_biclausal	downward
+14726	(1, 1, 1)	No actor has thought that the customers left the adults in 	Some actor has thought that the customers left the adults in 	years	in years	determiner_negation_biclausal	downward
+40156	(1, 1, 1)	These people had not imagined that 	These people had really imagined that 	any	any	sentential_negation_biclausal	downward
+9426	(0, 1, 1)	While the guy had worked with the teachers in 	If the guy had worked with the teachers in 	years	in years	conditional	upward
+19555	(0, 1, 1)	Even the waitress boasted at 	Only the waitress boasted at 	all	at all	only	upward
+14410	(0, 1, 1)	Some patients had thought that the actors had returned to a girl in 	None of the patients had thought that the actors had returned to a girl in 	years	in years	determiner_negation_biclausal	upward
+51691	(0, 1, 1)	A senator who biked to the bad school in 	A senator who biked to the worst school in 	years	in years	superlative	upward
+23157	(0, 1, 1)	Some adults who will like 	Any adults who will like 	any	any	quantifier	upward
+1620	(1, 1, 1)	A patient who has seldom walked through 	A patient who has sometimes walked through 	any	any	adverbs	downward
+9121	(1, 1, 1)	If the adult had investigated the hospitals in 	While the adult had investigated the hospitals in 	years	in years	conditional	downward
+4363	(0, 1, 1)	The guests who had sometimes biked to museums 	The guests who had barely biked to museums 	either	either	adverbs	upward
+10998	(1, 1, 1)	If the women run around the high schools 	While the women run around the high schools 	either	either	conditional	downward
+15257	(0, 1, 1)	Some children could say that the commentaries disagreed 	None of the children could say that the commentaries disagreed 	either	either	determiner_negation_biclausal	upward
+39353	(1, 1, 1)	The adults were not imagining that the hospitals might resemble the essays 	The adults were really imagining that the hospitals might resemble the essays 	either	either	sentential_negation_biclausal	downward
+33478	(1, 1, 1)	The ladies have wondered whether the children are boycotting the movie theaters in 	The ladies have said that the children are boycotting movie theaters in 	years	in years	questions	downward
+40394	(0, 1, 1)	The ladies are really explaining that 	The ladies are not explaining that 	any	any	sentential_negation_biclausal	upward
+32081	(1, 1, 1)	The ladies have wondered whether the waitress has bought dishes at 	The ladies have said that the waitress has bought the dishes at 	all	at all	questions	downward
+9753	(1, 1, 1)	If the dancer had referenced the documentaries in 	While the dancer had referenced the documentaries in 	years	in years	conditional	downward
+48577	(0, 1, 1)	The waitresses observe the serious guy that 	The waitresses observe the most serious guy that 	any	any	superlative	upward
+23649	(1, 1, 1)	Every waiter who had approached 	A waiter who had approached 	any	any	quantifier	downward
+6045	(1, 1, 1)	If the guy insults 	While the guy insults 	any	any	conditional	downward
+35288	(0, 1, 1)	The customers can really 	The customers can not 	ever	ever	sentential_negation_biclausal	upward
+44723	(1, 1, 1)	Had the men walked through the high schools in 	The men had walked through the high schools in 	years	in years	simplequestions	downward
+12500	(1, 1, 1)	None of the cashiers explained that the cashiers escaped from the gals 	Some cashiers explained that the cashiers escaped from the gals 	yet	yet	determiner_negation_biclausal	downward
+46858	(0, 1, 1)	The women do attack the adults 	Do the women attack the adults 	either	either	simplequestions	upward
+33751	(1, 1, 1)	The guests have wondered whether the boys talked to the women in 	The guests have said that the boys talked to women in 	years	in years	questions	downward
+44254	(0, 1, 1)	The pedestrian has exited the movie theaters in 	Has the pedestrian exited the movie theaters in 	years	in years	simplequestions	upward
+37744	(1, 1, 1)	The customer has not explained that a pedestrian did blink at 	The customer has really explained that a pedestrian did blink at 	all	at all	sentential_negation_biclausal	downward
+6034	(0, 1, 1)	While the women help 	If the women help 	any	any	conditional	upward
+25128	(0, 1, 1)	A lot of children who skate around the art galleries 	Any children who skate around the art galleries 	yet	yet	quantifier	upward
+7210	(0, 1, 1)	While the teenager bikes to the malls 	If the teenager bikes to the malls 	yet	yet	conditional	upward
+35097	(1, 1, 1)	The actresses would not 	The actresses would really 	ever	ever	sentential_negation_biclausal	downward
+9422	(0, 1, 1)	While the people have approached the men in 	If the people have approached the men in 	years	in years	conditional	upward
+20680	(0, 1, 1)	Even a person hid away 	Only a person hid away 	yet	yet	only	upward
+22389	(1, 1, 1)	Only the guy is hunting 	Even the guy is hunting 	either	either	only	downward
+26235	(0, 1, 1)	The drivers who are at more than three college campuses at 	All drivers who are at more than three college campuses at 	all	at all	quantifier	upward
+39508	(0, 1, 1)	The pedestrian will really explain that the newspaper articles have won 	The pedestrian will not explain that the newspaper articles have won 	either	either	sentential_negation_biclausal	upward
+35366	(1, 1, 1)	The student might not 	The student might really 	ever	ever	sentential_negation_biclausal	downward
+30106	(0, 1, 1)	The drivers say that the guests wore 	The drivers wonder whether the guests wore 	any	any	questions	upward
+13790	(1, 1, 1)	None of the guys explained that the men had divorced at 	Some guys explained that the men had divorced at 	all	at all	determiner_negation_biclausal	downward
+14316	(0, 1, 1)	Some pedestrian had said that the people wrote in 	No pedestrian had said that the people wrote in 	years	in years	determiner_negation_biclausal	upward
+22418	(0, 1, 1)	Even the teachers were speaking up 	Only the teachers were speaking up 	either	either	only	upward
+25126	(1, 1, 1)	All men who were touring the banks 	Men who were touring the banks 	yet	yet	quantifier	downward
+45089	(0, 1, 1)	The actress can bike to the grocery stores 	Can the actress bike to the grocery stores 	yet	yet	simplequestions	upward
+38814	(1, 1, 1)	The girls have not thought that a documentary has described the art gallery in 	The girls have really thought that a documentary has described the art gallery in 	years	in years	sentential_negation_biclausal	downward
+42438	(0, 1, 1)	The child is walking through 	Is the child walking through 	any	any	simplequestions	upward
+4870	(0, 1, 1)	The guest who often works with girls 	The guest who scarcely works with girls 	either	either	adverbs	upward
+27091	(1, 1, 1)	Every woman who had gone to a lot of restaurants in 	The woman who had gone to a lot of restaurants in 	years	in years	quantifier	downward
+16415	(1, 1, 1)	No students could say that 	Some students could say that 	any	any	determiner_negation_biclausal	downward
+39529	(1, 1, 1)	The teachers did not think that the driver can exit the public parks 	The teachers did really think that the driver can exit the public parks 	either	either	sentential_negation_biclausal	downward
+42813	(1, 1, 1)	Had the teenagers escaped from 	The teenagers had escaped from 	any	any	simplequestions	downward
+22520	(0, 1, 1)	Even a teenager swallowed 	Only a teenager swallowed 	either	either	only	upward
+22037	(1, 1, 1)	Only the driver mutters 	Even the driver mutters 	either	either	only	downward
+3895	(0, 1, 1)	The actor who always referenced guests in 	The actor who seldom referenced guests in 	years	in years	adverbs	upward
+8923	(0, 1, 1)	While the doctors talk about the dancers at 	If the doctors talk about the dancers at 	all	at all	conditional	upward
+46826	(0, 1, 1)	The cashiers have cared for the teachers 	Have the cashiers cared for the teachers 	either	either	simplequestions	upward
+32730	(0, 1, 1)	The boys have said that the woman is visiting the actresses at 	The boys have wondered whether the woman is visiting actresses at 	all	at all	questions	upward
+20998	(1, 1, 1)	Only the actresses sat down 	Even the actresses sat down 	yet	yet	only	downward
+45809	(1, 1, 1)	Had the doctors attacked the boys 	The doctors had attacked the boys 	yet	yet	simplequestions	downward
+45235	(0, 1, 1)	The guys are exiting the grocery stores 	Are the guys exiting the grocery stores 	yet	yet	simplequestions	upward
+38949	(0, 1, 1)	A teenager had really said that the senators had sold the cups in 	A teenager had not said that the senators had sold the cups in 	years	in years	sentential_negation_biclausal	upward
+38025	(1, 1, 1)	The guests had not imagined that a doctor had exercised in 	The guests had really imagined that a doctor had exercised in 	years	in years	sentential_negation_biclausal	downward
+40196	(1, 1, 1)	Those waitresses had not imagined that 	Those waitresses had really imagined that 	any	any	sentential_negation_biclausal	downward
+22478	(1, 1, 1)	Only the ladies have surrendered 	Even the ladies have surrendered 	either	either	only	downward
+17270	(0, 1, 1)	Even a girl 	Only a girl 	ever	ever	only	upward
+20039	(0, 1, 1)	Even the ladies have assembled 	Only the ladies have assembled 	yet	yet	only	upward
+10280	(0, 1, 1)	While the child buys the dishes 	If the child buys the dishes 	either	either	conditional	upward
+21870	(1, 1, 1)	Only a teenager had left art galleries in 	Even a teenager had left art galleries in 	years	in years	only	downward
+38149	(1, 1, 1)	The drivers not imagined that the people have skated around the college campuses in 	The drivers really imagined that the people have skated around the college campuses in 	years	in years	sentential_negation_biclausal	downward
+34559	(1, 1, 1)	The guests have wondered whether the cashier escapes from the malls 	The guests have said that the cashier escapes from the malls 	either	either	questions	downward
+39977	(1, 1, 1)	The ladies had not explained that the senators have negotiated 	The ladies had really explained that the senators have negotiated 	either	either	sentential_negation_biclausal	downward
+30241	(0, 1, 1)	The guys say that the adult had cleaned 	The guys wonder whether the adult had cleaned 	any	any	questions	upward
+41877	(0, 1, 1)	The children do 	Do the children 	ever	ever	simplequestions	upward
+2252	(0, 1, 1)	The customers who sometimes scratch at 	The customers who scarcely scratch at 	all	at all	adverbs	upward
+45912	(1, 1, 1)	Was the child going to the libraries 	The child was going to the libraries 	yet	yet	simplequestions	downward
+23319	(1, 1, 1)	Every waitress who was dropping by 	Some waitress who was dropping by 	any	any	quantifier	downward
+48441	(1, 1, 1)	The cafes do resemble the most popular guys that 	The cafes do resemble the popular guys that 	any	any	superlative	downward
+27855	(1, 1, 1)	Every dancer who has insulted libraries in 	The dancer who has insulted libraries in 	years	in years	quantifier	downward
+8158	(1, 1, 1)	If the guys tour the restaurants at 	While the guys tour the restaurants at 	all	at all	conditional	downward
+37074	(1, 1, 1)	The senator had not explained that the report is referencing the commentary at 	The senator had really explained that the report is referencing the commentary at 	all	at all	sentential_negation_biclausal	downward
+31708	(1, 1, 1)	The teachers have wondered whether the adult had passed college campuses 	The teachers have said that the adult had passed the college campuses 	yet	yet	questions	downward
+15734	(1, 1, 1)	No cashier had imagined that the newspaper articles have won 	Some cashier had imagined that the newspaper articles have won 	either	either	determiner_negation_biclausal	downward
+39267	(0, 1, 1)	The boy had really explained that the cups would resemble the hat 	The boy had not explained that the cups would resemble the hat 	either	either	sentential_negation_biclausal	upward
+12984	(1, 1, 1)	No cashiers think that the libraries resemble the museums 	Some cashiers think that the libraries resemble the museums 	yet	yet	determiner_negation_biclausal	downward
+44214	(1, 1, 1)	Has the actress worked with the waiters in 	The actress has worked with the waiters in 	years	in years	simplequestions	downward
+46616	(1, 1, 1)	Had the cashier passed the movie theaters 	The cashier had passed the movie theaters 	either	either	simplequestions	downward
+3582	(1, 1, 1)	The actress who had seldom passed art galleries in 	The actress who had sometimes passed art galleries in 	years	in years	adverbs	downward
+7898	(0, 1, 1)	While the guests drop by the malls 	If the guests drop by the malls 	yet	yet	conditional	upward
+33239	(0, 1, 1)	The guests have said that the adults could discuss high schools in 	The guests have wondered whether the adults could discuss the high schools in 	years	in years	questions	upward
+24716	(1, 1, 1)	Any guys who had 	More than three guys who had 	ever	ever	quantifier	downward
+44817	(1, 1, 1)	Had the teachers brought the cars in 	The teachers had brought the cars in 	years	in years	simplequestions	downward
+12516	(1, 1, 1)	No pedestrian had thought that the art galleries might resemble the ladies 	Some pedestrian had thought that the art galleries might resemble the ladies 	yet	yet	determiner_negation_biclausal	downward
+23738	(1, 1, 1)	All teenagers who left 	Teenagers who left 	any	any	quantifier	downward
+20269	(0, 1, 1)	Even the boys would murmur 	Only the boys would murmur 	yet	yet	only	upward
+10684	(0, 1, 1)	While the patients remember the people 	If the patients remember the people 	either	either	conditional	upward
+50846	(1, 1, 1)	A cashier who discussed the longest stories 	A cashier who discussed the long stories 	yet	yet	superlative	downward
+34640	(0, 1, 1)	The guys have said that the driver ran around the hospitals 	The guys have wondered whether the driver ran around the hospitals 	either	either	questions	upward
+33218	(0, 1, 1)	The waiters have said that the teacher had sold pants in 	The waiters have wondered whether the teacher had sold the pants in 	years	in years	questions	upward
+22700	(0, 1, 1)	Even a driver sang 	Only a driver sang 	either	either	only	upward
+1533	(0, 1, 1)	A boy who sometimes resembles 	A boy who seldom resembles 	any	any	adverbs	upward
+52093	(1, 1, 1)	The man who passed the cheapest museums 	The man who passed the cheap museums 	either	either	superlative	downward
+46183	(0, 1, 1)	The adults have been at the malls 	Have the adults been at the malls 	either	either	simplequestions	upward
+52435	(0, 1, 1)	The waiters who criticized the important art gallery 	The waiters who criticized the most important art gallery 	either	either	superlative	upward
+45902	(1, 1, 1)	Had the women investigated the customers 	The women had investigated the customers 	yet	yet	simplequestions	downward
+38292	(0, 1, 1)	A teenager really explained that the essay had disagreed in 	A teenager not explained that the essay had disagreed in 	years	in years	sentential_negation_biclausal	upward
+37809	(0, 1, 1)	A waitress had really thought that the cafes should resemble the report at 	A waitress had not thought that the cafes should resemble the report at 	all	at all	sentential_negation_biclausal	upward
+43247	(0, 1, 1)	The girl is helping the dancers at 	Is the girl helping the dancers at 	all	at all	simplequestions	upward
+4908	(0, 1, 1)	The customer who will sometimes admire actors 	The customer who will hardly admire actors 	either	either	adverbs	upward
+16220	(1, 1, 1)	No people think that 	Some people think that 	any	any	determiner_negation_biclausal	downward
+28747	(1, 1, 1)	All ladies who will explore the banks 	More than three ladies who will explore the banks 	either	either	quantifier	downward
+48693	(1, 1, 1)	The shoes resemble the biggest school that 	The shoes resemble the big school that 	any	any	superlative	downward
+33068	(1, 1, 1)	The ladies have wondered whether the actor is describing the dancers in 	The ladies have said that the actor is describing dancers in 	years	in years	questions	downward
+20460	(1, 1, 1)	Only the doctors did dislike children 	Even the doctors did dislike children 	yet	yet	only	downward
+49997	(1, 1, 1)	The waiters who disliked the best customer at 	The waiters who disliked the good customer at 	all	at all	superlative	downward
+31060	(0, 1, 1)	The ladies have said that the dancer insults the guys 	The ladies have wondered whether the dancer insults guys 	yet	yet	questions	upward
+43934	(0, 1, 1)	The guys have admired the actors at 	Have the guys admired the actors at 	all	at all	simplequestions	upward
+51579	(1, 1, 1)	The person who listened to the oldest girls in 	The person who listened to the old girls in 	years	in years	superlative	downward
+51524	(0, 1, 1)	A guest who praised the long commentaries in 	A guest who praised the longest commentaries in 	years	in years	superlative	upward
+3780	(1, 1, 1)	The children who seldom toured cafes in 	The children who sometimes toured cafes in 	years	in years	adverbs	downward
+7753	(0, 1, 1)	While the boy describes the guys 	If the boy describes the guys 	yet	yet	conditional	upward
+23739	(1, 1, 1)	Every teenager who should go to 	The teenager who should go to 	any	any	quantifier	downward
+15757	(1, 1, 1)	None of the children have imagined that the hair should resemble the couches 	Some children have imagined that the hair should resemble the couches 	either	either	determiner_negation_biclausal	downward
+33331	(1, 1, 1)	The cashiers have wondered whether the waiters were going to the malls in 	The cashiers have said that the waiters were going to malls in 	years	in years	questions	downward
+17653	(1, 1, 1)	Only a teenager would 	Even a teenager would 	ever	ever	only	downward
+27784	(1, 1, 1)	All children who had helped more than three teenagers in 	The children who had helped more than three teenagers in 	years	in years	quantifier	downward
+43110	(0, 1, 1)	The student has praised the reports at 	Has the student praised the reports at 	all	at all	simplequestions	upward
+24329	(0, 1, 1)	The dancer who has 	Every dancer who has 	ever	ever	quantifier	upward
+42431	(1, 1, 1)	Were the actresses running around 	The actresses were running around 	any	any	simplequestions	downward
+21976	(1, 1, 1)	Only the waiters have waved in 	Even the waiters have waved in 	years	in years	only	downward
+28801	(0, 1, 1)	Gals who can work with the girls 	All dancers who can work with the girls 	either	either	quantifier	upward
+15310	(1, 1, 1)	No boys were saying that the hair resembles a senator 	Some boys were saying that the hair resembles a senator 	either	either	determiner_negation_biclausal	downward
+4926	(1, 1, 1)	The dancers who scarcely referenced guys 	The dancers who often referenced guys 	either	either	adverbs	downward
+11039	(0, 1, 1)	Some girl will 	No girl will 	ever	ever	determiner_negation_biclausal	upward
+47952	(1, 1, 1)	The senators might care for the worst driver that the men have 	The senators might care for the bad driver that the men have 	ever	ever	superlative	downward
+10970	(0, 1, 1)	While the ladies bike to the libraries 	If the ladies bike to the libraries 	either	either	conditional	upward
+43501	(0, 1, 1)	The adults can flee from the teachers at 	Can the adults flee from the teachers at 	all	at all	simplequestions	upward
+52181	(0, 1, 1)	The guests who scanned the popular commentaries 	The guests who scanned the most popular commentaries 	either	either	superlative	upward
+4313	(1, 1, 1)	The waitress who scarcely examines movies 	The waitress who sometimes examines movies 	either	either	adverbs	downward
+2496	(0, 1, 1)	The dancers who sometimes did answer at 	The dancers who rarely did answer at 	all	at all	adverbs	upward
+52873	(0, 1, 1)	The girls who broke the good cars 	The girls who broke the best cars 	either	either	superlative	upward
+19334	(1, 1, 1)	Only the customer had fled from waiters at 	Even the customer had fled from waiters at 	all	at all	only	downward
+21246	(1, 1, 1)	Only a lady negotiated in 	Even a lady negotiated in 	years	in years	only	downward
+27254	(1, 1, 1)	Every girl who had walked through a lot of high schools in 	The girl who had walked through a lot of high schools in 	years	in years	quantifier	downward
+4035	(1, 1, 1)	The lady who barely leaves men 	The lady who always leaves men 	either	either	adverbs	downward
+23063	(0, 1, 1)	Cashiers who exited 	All cashiers who exited 	any	any	quantifier	upward
+27957	(1, 1, 1)	Every doctor who drove to a lot of college campuses in 	Some doctor who drove to a lot of college campuses in 	years	in years	quantifier	downward
+31352	(1, 1, 1)	The boys have wondered whether the child did talk to children 	The boys have said that the child did talk to the children 	yet	yet	questions	downward
+50103	(1, 1, 1)	The customers who forgot the fastest teenager 	The customers who forgot the fast teenager 	yet	yet	superlative	downward
+37031	(0, 1, 1)	The teenagers had really thought that a cashier had hidden away at 	The teenagers had not thought that a cashier had hidden away at 	all	at all	sentential_negation_biclausal	upward
+14165	(1, 1, 1)	None of the gals said that the waitresses replied in 	Some gals said that the waitresses replied in 	years	in years	determiner_negation_biclausal	downward
+50819	(1, 1, 1)	The dancers who escaped from the most serious guys 	The dancers who escaped from the serious guys 	yet	yet	superlative	downward
+49491	(0, 1, 1)	The drivers who explored the bad bank at 	The drivers who explored the worst bank at 	all	at all	superlative	upward
+51252	(0, 1, 1)	The cashier who knew the serious adults in 	The cashier who knew the most serious adults in 	years	in years	superlative	upward
+43054	(0, 1, 1)	The pedestrians should describe the malls at 	Should the pedestrians describe the malls at 	all	at all	simplequestions	upward
+39109	(0, 1, 1)	The actresses can really explain that the essay would resemble a chair 	The actresses can not explain that the essay would resemble a chair 	either	either	sentential_negation_biclausal	upward
+7645	(1, 1, 1)	If the student tours the high schools 	While the student tours the high schools 	yet	yet	conditional	downward
+41244	(0, 1, 1)	The waiter has 	Has the waiter 	ever	ever	simplequestions	upward
+13006	(1, 1, 1)	No drivers say that the cups resemble a cashier at 	Some drivers say that the cups resemble a cashier at 	all	at all	determiner_negation_biclausal	downward
+18885	(1, 1, 1)	Only the women have worked with 	Even the women have worked with 	any	any	only	downward
+26213	(1, 1, 1)	Every driver who had referenced the newspaper articles at 	Some driver who had referenced the newspaper articles at 	all	at all	quantifier	downward
+13473	(1, 1, 1)	No patient is thinking that the plates resemble the glasses at 	Some patient is thinking that the plates resemble the glasses at 	all	at all	determiner_negation_biclausal	downward
+45571	(1, 1, 1)	Have the men talked to the cashiers 	The men have talked to the cashiers 	yet	yet	simplequestions	downward
+8114	(0, 1, 1)	While the guests see the dishes at 	If the guests see the dishes at 	all	at all	conditional	upward
+49175	(1, 1, 1)	The doctors who biked to the cheapest high school at 	The doctors who biked to the cheap high school at 	all	at all	superlative	downward
+11162	(1, 1, 1)	No driver will 	Some driver will 	ever	ever	determiner_negation_biclausal	downward
+22322	(1, 1, 1)	Only the student would reply 	Even the student would reply 	either	either	only	downward
+10806	(0, 1, 1)	While the boys boycott the banks 	If the boys boycott the banks 	either	either	conditional	upward
+1042	(1, 1, 1)	A student who had rarely ran around 	A student who had always ran around 	any	any	adverbs	downward
+20309	(0, 1, 1)	Even the man compromises 	Only the man compromises 	yet	yet	only	upward
+51180	(0, 1, 1)	The patient who watched the nice guests in 	The patient who watched the nicest guests in 	years	in years	superlative	upward
+14507	(0, 1, 1)	Some actors imagined that the stories disagreed in 	No actors imagined that the stories disagreed in 	years	in years	determiner_negation_biclausal	upward
+45608	(1, 1, 1)	Were the adults praising the waitresses 	The adults were praising the waitresses 	yet	yet	simplequestions	downward
+32377	(1, 1, 1)	The waiters have wondered whether the waitresses were leaving banks at 	The waiters have said that the waitresses were leaving the banks at 	all	at all	questions	downward
+48727	(1, 1, 1)	The cashiers disliked the biggest women that 	The cashiers disliked the big women that 	any	any	superlative	downward
+31363	(0, 1, 1)	The patients have said that the dancers have approached the actors 	The patients have wondered whether the dancers have approached actors 	yet	yet	questions	upward
+42893	(0, 1, 1)	The waitresses did break 	Did the waitresses break 	any	any	simplequestions	upward
+20624	(0, 1, 1)	Even the teenagers examined reports 	Only the teenagers examined reports 	yet	yet	only	upward
+28755	(1, 1, 1)	All children who do observe more than three doctors 	Children who do observe more than three doctors 	either	either	quantifier	downward
+13399	(0, 1, 1)	Some teenagers do say that the drivers had telephoned at 	No teenagers do say that the drivers had telephoned at 	all	at all	determiner_negation_biclausal	upward
+43666	(0, 1, 1)	The driver had toured the restaurants at 	Had the driver toured the restaurants at 	all	at all	simplequestions	upward
+38104	(0, 1, 1)	The actresses really imagined that the customers had admired the books in 	The actresses not imagined that the customers had admired the books in 	years	in years	sentential_negation_biclausal	upward
+21968	(0, 1, 1)	Even the guys had conferred in 	Only the guys had conferred in 	years	in years	only	upward
+51029	(0, 1, 1)	The teenager who escaped from the important person in 	The teenager who escaped from the most important person in 	years	in years	superlative	upward
+44164	(0, 1, 1)	The doctor had visited the hospitals in 	Had the doctor visited the hospitals in 	years	in years	simplequestions	upward
+42750	(0, 1, 1)	The driver was watching 	Was the driver watching 	any	any	simplequestions	upward
+50278	(1, 1, 1)	A boy who insulted the most popular senator 	A boy who insulted the popular senator 	yet	yet	superlative	downward
+22853	(1, 1, 1)	Only the gals could assemble 	Even the gals could assemble 	either	either	only	downward
+18094	(1, 1, 1)	Only the gals arrived at 	Even the gals arrived at 	any	any	only	downward
+23750	(1, 1, 1)	All doctors who examined 	Doctors who examined 	any	any	quantifier	downward
+43307	(0, 1, 1)	The guests have been at the high schools at 	Have the guests been at the high schools at 	all	at all	simplequestions	upward
+37291	(0, 1, 1)	The doctors should really say that the glasses should resemble the plays at 	The doctors should not say that the glasses should resemble the plays at 	all	at all	sentential_negation_biclausal	upward
+46612	(1, 1, 1)	Does the guy boycott the libraries 	The guy does boycott the libraries 	either	either	simplequestions	downward
+2950	(1, 1, 1)	The senators who seldom do confer at 	The senators who often do confer at 	all	at all	adverbs	downward
+32204	(0, 1, 1)	The girls have said that the women had the glasses at 	The girls have wondered whether the women had glasses at 	all	at all	questions	upward
+51633	(1, 1, 1)	The drivers who cared for the nicest actor in 	The drivers who cared for the nice actor in 	years	in years	superlative	downward
+42151	(0, 1, 1)	The patient is fleeing from 	Is the patient fleeing from 	any	any	simplequestions	upward
+30548	(1, 1, 1)	The boys wonder whether the people do hug 	The boys say that the people do hug 	any	any	questions	downward
+50716	(0, 1, 1)	The guests who ran around the big bank 	The guests who ran around the biggest bank 	yet	yet	superlative	upward
+9776	(0, 1, 1)	While the teacher had respected the cafes in 	If the teacher had respected the cafes in 	years	in years	conditional	upward
+49120	(1, 1, 1)	A waitress who fled from the youngest customer at 	A waitress who fled from the young customer at 	all	at all	superlative	downward
+35202	(0, 1, 1)	The children were really 	The children were not 	ever	ever	sentential_negation_biclausal	upward
+45813	(1, 1, 1)	Could the customers describe the libraries 	The customers could describe the libraries 	yet	yet	simplequestions	downward
+25140	(0, 1, 1)	A lot of students who are breaking forks 	Any students who are breaking forks 	yet	yet	quantifier	upward
+46455	(0, 1, 1)	The doctors could respect the cashiers 	Could the doctors respect the cashiers 	either	either	simplequestions	upward
+28000	(1, 1, 1)	Every cashier who has hated guys 	A cashier who has hated guys 	either	either	quantifier	downward
+27778	(0, 1, 1)	A pedestrian who has referenced some doctors in 	Every pedestrian who has referenced some doctors in 	years	in years	quantifier	upward
+38344	(0, 1, 1)	The boy really thought that the people had fled from the guest in 	The boy not thought that the people had fled from the guest in 	years	in years	sentential_negation_biclausal	upward
+27051	(0, 1, 1)	A boy who has talked to the girls in 	Every boy who has talked to the girls in 	years	in years	quantifier	upward
+14500	(0, 1, 1)	Some waiter has said that the boys had broken a dish in 	No waiter has said that the boys had broken a dish in 	years	in years	determiner_negation_biclausal	upward
+3503	(0, 1, 1)	The drivers who had often clashed in 	The drivers who had barely clashed in 	years	in years	adverbs	upward
+20796	(1, 1, 1)	Only the adults smiled 	Even the adults smiled 	yet	yet	only	downward
+49922	(1, 1, 1)	A customer who watched the fastest student at 	A customer who watched the fast student at 	all	at all	superlative	downward
+28776	(1, 1, 1)	Every actress who has described more than three guys 	The actress who has described more than three guys 	either	either	quantifier	downward
+28909	(1, 1, 1)	Any waiters who were passing a lot of cafes 	The waiters who were passing a lot of cafes 	either	either	quantifier	downward
+4390	(1, 1, 1)	The guy who would scarcely sigh 	The guy who would sometimes sigh 	either	either	adverbs	downward
+1904	(0, 1, 1)	A driver who had often worked with 	A driver who had rarely worked with 	any	any	adverbs	upward
+31671	(0, 1, 1)	The waitresses have said that the child can see the teachers 	The waitresses have wondered whether the child can see teachers 	yet	yet	questions	upward
+25479	(1, 1, 1)	Every waitress who has exited banks 	Some waitress who has exited banks 	yet	yet	quantifier	downward
+48052	(1, 1, 1)	The rugs resemble the newest chair that 	The rugs resemble the new chair that 	any	any	superlative	downward
+18608	(0, 1, 1)	Even the teachers were breaking 	Only the teachers were breaking 	any	any	only	upward
+46132	(1, 1, 1)	Was the guy kissing the waitresses 	The guy was kissing the waitresses 	either	either	simplequestions	downward
+35099	(0, 1, 1)	The lady should really 	The lady should not 	ever	ever	sentential_negation_biclausal	upward
+4568	(0, 1, 1)	The adults who can sometimes win 	The adults who can barely win 	either	either	adverbs	upward
+11012	(0, 1, 1)	Some people 	None of the people 	ever	ever	determiner_negation_biclausal	upward
+31114	(1, 1, 1)	The doctors have wondered whether the senator buys pants 	The doctors have said that the senator buys the pants 	yet	yet	questions	downward
+8280	(0, 1, 1)	While the guy sees the cars at 	If the guy sees the cars at 	all	at all	conditional	upward
+10107	(0, 1, 1)	While the guy cares for the actors 	If the guy cares for the actors 	either	either	conditional	upward
+39594	(0, 1, 1)	The guys had really thought that the customers should conspire 	The guys had not thought that the customers should conspire 	either	either	sentential_negation_biclausal	upward
+1999	(0, 1, 1)	The people who always went to 	The people who seldom went to 	any	any	adverbs	upward
+14079	(0, 1, 1)	Some guy had explained that the gloves have shrunk in 	No guy had explained that the gloves have shrunk in 	years	in years	determiner_negation_biclausal	upward
+33795	(1, 1, 1)	The waiters have wondered whether the people have disliked the newspaper articles in 	The waiters have said that the people have disliked newspaper articles in 	years	in years	questions	downward
+45647	(0, 1, 1)	The teenager would discuss the girls 	Would the teenager discuss the girls 	yet	yet	simplequestions	upward
+32065	(0, 1, 1)	The dancers have said that the person might remember the actresses at 	The dancers have wondered whether the person might remember actresses at 	all	at all	questions	upward
+12576	(0, 1, 1)	Some adults explained that the commentaries did discuss the documentaries 	No adults explained that the commentaries did discuss the documentaries 	yet	yet	determiner_negation_biclausal	upward
+46416	(1, 1, 1)	Might the student talk to the actors 	The student might talk to the actors 	either	either	simplequestions	downward
+15691	(0, 1, 1)	Some teenager had said that the waiters would attack the ladies 	No teenager had said that the waiters would attack the ladies 	either	either	determiner_negation_biclausal	upward
+18521	(1, 1, 1)	Only the humans are going to 	Even the humans are going to 	any	any	only	downward
+41553	(1, 1, 1)	Had the teenagers 	The teenagers had 	ever	ever	simplequestions	downward
+28957	(1, 1, 1)	Any dancers who were arriving at grocery stores 	Some dancers who were arriving at grocery stores 	either	either	quantifier	downward
+9131	(0, 1, 1)	While the teenager has fled from the women in 	If the teenager has fled from the women in 	years	in years	conditional	upward
+14967	(0, 1, 1)	Some guest thought that the doctors took the books in 	No guest thought that the doctors took the books in 	years	in years	determiner_negation_biclausal	upward
+46989	(1, 1, 1)	Is the senator watching the people 	The senator is watching the people 	either	either	simplequestions	downward
+13551	(0, 1, 1)	Some guest said that the eyes resemble the reports at 	No guest said that the eyes resemble the reports at 	all	at all	determiner_negation_biclausal	upward
+4456	(0, 1, 1)	The waitresses who sometimes grinned 	The waitresses who seldom grinned 	either	either	adverbs	upward
+43658	(0, 1, 1)	The waiter had worked with the doctors at 	Had the waiter worked with the doctors at 	all	at all	simplequestions	upward
+30935	(0, 1, 1)	The waiters say that the adult will watch 	The waiters wonder whether the adult will watch 	any	any	questions	upward
+2757	(1, 1, 1)	The customer who barely won at 	The customer who often won at 	all	at all	adverbs	downward
+52248	(1, 1, 1)	The adults who left the newest museums 	The adults who left the new museums 	either	either	superlative	downward
+36504	(0, 1, 1)	A waitress is really saying that the pants might resemble the documentaries 	A waitress is not saying that the pants might resemble the documentaries 	yet	yet	sentential_negation_biclausal	upward
+3053	(1, 1, 1)	The drivers who hardly cleaned books in 	The drivers who always cleaned books in 	years	in years	adverbs	downward
+25467	(1, 1, 1)	Any ladies who have driven to a lot of museums 	The ladies who have driven to a lot of museums 	yet	yet	quantifier	downward
+21528	(1, 1, 1)	Only the woman had criticized art galleries in 	Even the woman had criticized art galleries in 	years	in years	only	downward
+7272	(1, 1, 1)	If the woman sees the glasses 	While the woman sees the glasses 	yet	yet	conditional	downward
+36988	(1, 1, 1)	A waitress does not explain that the books were winning 	A waitress does really explain that the books were winning 	yet	yet	sentential_negation_biclausal	downward
+33794	(0, 1, 1)	The waitresses have said that the dancer was going to cafes in 	The waitresses have wondered whether the dancer was going to the cafes in 	years	in years	questions	upward
+26753	(0, 1, 1)	The senator who has gone to many malls at 	Every senator who has gone to many malls at 	all	at all	quantifier	upward
+49735	(1, 1, 1)	The waitresses who visited the best grocery store at 	The waitresses who visited the good grocery store at 	all	at all	superlative	downward
+9329	(1, 1, 1)	If the actress has forgotten the children in 	While the actress has forgotten the children in 	years	in years	conditional	downward
+3668	(1, 1, 1)	A man who had scarcely bought forks in 	A man who had often bought forks in 	years	in years	adverbs	downward
+13994	(1, 1, 1)	No driver has said that the patients telephone at 	Some driver has said that the patients telephone at 	all	at all	determiner_negation_biclausal	downward
+32326	(0, 1, 1)	The waiters have said that the man talks about the hospitals at 	The waiters have wondered whether the man talks about hospitals at 	all	at all	questions	upward
+19110	(1, 1, 1)	Only a girl explained everything at 	Even a girl explained everything at 	all	at all	only	downward
+15343	(1, 1, 1)	None of the girls would say that the chairs resemble the hospitals 	Some girls would say that the chairs resemble the hospitals 	either	either	determiner_negation_biclausal	downward
+44663	(1, 1, 1)	Has the senator boycotted the restaurants in 	The senator has boycotted the restaurants in 	years	in years	simplequestions	downward
