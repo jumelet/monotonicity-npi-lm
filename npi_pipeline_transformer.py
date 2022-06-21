@@ -20,7 +20,6 @@ MODEL_NAMES = ["../experiments/andy/checkpoint_best.pt"]
 if __name__ == "__main__":
     config_dict = create_config_dict()
 
-    # Make sure that the state_dict field in your json config points towards the parent folder of all the LMs.
     results_dir = config_dict["probe"]["save_dir"]
 
     if not os.path.isdir(results_dir):
